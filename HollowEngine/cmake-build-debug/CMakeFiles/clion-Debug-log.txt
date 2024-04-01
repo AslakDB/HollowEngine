@@ -1,0 +1,6 @@
+C:\Users\askel\AppData\Local\JetBrains\Toolbox\apps\CLion-Nova\ch-0\241.14024.27\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion-Nova/ch-0/241.14024.27/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\3DProg\HollowEngine -B C:\3DProg\HollowEngine\cmake-build-debug
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Using Win32 for window creation
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/3DProg/HollowEngine/cmake-build-debug
