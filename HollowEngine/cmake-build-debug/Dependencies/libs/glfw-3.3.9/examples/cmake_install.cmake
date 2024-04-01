@@ -1,4 +1,4 @@
-# Install script for directory: C:/3DProg/HollowEngine/Dependencies/libs/glfw-3.3.9/examples
+# Install script for directory: D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -30,5 +30,10 @@ endif()
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
+endif()
+
+# Set default install directory permissions.
+if(NOT DEFINED CMAKE_OBJDUMP)
+  set(CMAKE_OBJDUMP "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/objdump.exe")
 endif()
 

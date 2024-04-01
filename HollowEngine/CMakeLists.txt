@@ -15,6 +15,7 @@ set(HEADER_FILES
         Core/Actor.h
         Scene/Window.h
         Core/Shaders.h
+        Core/Setup.h
 )
 
 set(SRC_FILES
