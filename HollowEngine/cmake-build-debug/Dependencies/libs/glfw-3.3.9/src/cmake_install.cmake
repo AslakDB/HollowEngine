@@ -1,4 +1,4 @@
-# Install script for directory: D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src
+# Install script for directory: C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,10 +34,10 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src/libglfw3.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src/libglfw3.a")
 endif()
 

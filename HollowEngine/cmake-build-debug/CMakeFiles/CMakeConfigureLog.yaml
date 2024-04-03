@@ -4,20 +4,20 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:233 (message)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:233 (message)"
       - "CMakeLists.txt:2 (project)"
     message: |
-      The system is: Windows - 10.0.19045 - AMD64
+      The system is: Windows - 10.0.22631 - AMD64
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
       - "CMakeLists.txt:2 (project)"
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-      Compiler: C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/gcc.exe 
+      Compiler: C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/gcc.exe 
       Build flags: 
       Id flags:  
       
@@ -28,18 +28,18 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
       
       The C compiler identification is GNU, found in:
-        D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe
+        C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe
       
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
       - "CMakeLists.txt:2 (project)"
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-      Compiler: C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/g++.exe 
+      Compiler: C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/g++.exe 
       Build flags: 
       Id flags:  
       
@@ -50,19 +50,19 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is GNU, found in:
-        D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe
+        C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe
       
   -
     kind: "try_compile-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:2 (project)"
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gtw3mm"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gtw3mm"
+      source: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fto1es"
+      binary: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fto1es"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -71,186 +71,224 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gtw3mm'
+        Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fto1es'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_d3cd3/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_d3cd3.dir\\build.make CMakeFiles/cmTC_d3cd3.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gtw3mm'
-        Building C object CMakeFiles/cmTC_d3cd3.dir/CMakeCCompilerABI.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+        Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_88e83
+        [1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj -c C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c
         Using built-in specs.
-        COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe
+        COLLECT_GCC=C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe
         Target: x86_64-w64-mingw32
         Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_d3cd3.dir\\'
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_d3cd3.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\cctHIzvy.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_88e83.dir/'
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_88e83.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\askel\\AppData\\Local\\Temp\\ccWV50mx.s
         GNU C17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.2.0-p4, MPC version 1.3.1, isl version none
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"
         ignoring nonexistent directory "/win/include"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../include"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../include"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"
         ignoring nonexistent directory "/mingw/include"
         #include "..." search starts here:
         #include <...> search starts here:
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 2aa4fcf5c9208168c5e2d38a58fc2a97
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_d3cd3.dir\\'
-         as -v -o CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\cctHIzvy.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_88e83.dir/'
+         as -v -o CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj C:\\Users\\askel\\AppData\\Local\\Temp\\ccWV50mx.s
         GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40
-        COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/
-        LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.'
-        Linking C executable cmTC_d3cd3.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_d3cd3.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_d3cd3.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_d3cd3.dir/objects.a @CMakeFiles\\cmTC_d3cd3.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -v -Wl,--whole-archive CMakeFiles\\cmTC_d3cd3.dir/objects.a -Wl,--no-whole-archive -o cmTC_d3cd3.exe -Wl,--out-implib,libcmTC_d3cd3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+        COMPILER_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/
+        LIBRARY_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe  -v CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj -o cmTC_88e83.exe -Wl,--out-implib,libcmTC_88e83.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
-        COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe
-        COLLECT_LTO_WRAPPER=C:/Users/Aslak/AppData/Local/Programs/CLion\\ 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
+        COLLECT_GCC=C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe
+        COLLECT_LTO_WRAPPER=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
         Target: x86_64-w64-mingw32
         Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/
-        LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d3cd3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d3cd3.'
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_d3cd3.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_d3cd3.dir/objects.a --no-whole-archive --out-implib libcmTC_d3cd3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d3cd3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d3cd3.'
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gtw3mm'
+        COMPILER_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/
+        LIBRARY_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_88e83.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_88e83.'
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_88e83.exe C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_88e83.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_88e83.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_88e83.'\x0d
         
       exitCode: 0
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:2 (project)"
     message: |
       Parsed C implicit include dir info: rv=done
         found start of include info
         found start of implicit include info
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         end of search list found
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/include]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/x86_64-w64-mingw32/include]
-        implicit include dirs: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/include;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/x86_64-w64-mingw32/include]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/include]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/include]
+        implicit include dirs: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/include;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/include]
       
       
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:159 (message)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:159 (message)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:2 (project)"
     message: |
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gtw3mm']
+        ignore line: [Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fto1es']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_d3cd3/fast]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_d3cd3.dir\\build.make CMakeFiles/cmTC_d3cd3.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gtw3mm']
-        ignore line: [Building C object CMakeFiles/cmTC_d3cd3.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_88e83]
+        ignore line: [[1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj -c C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
-        ignore line: [COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe]
+        ignore line: [COLLECT_GCC=C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
         ignore line: [Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends]
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_d3cd3.dir\\']
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_d3cd3.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\cctHIzvy.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_88e83.dir/']
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_88e83.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\askel\\AppData\\Local\\Temp\\ccWV50mx.s]
         ignore line: [GNU C17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.2.0-p4  MPC version 1.3.1  isl version none]
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"]
         ignore line: [ignoring nonexistent directory "/win/include"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../include"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../include"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"]
         ignore line: [ignoring nonexistent directory "/mingw/include"]
         ignore line: [#include "..." search starts here:]
         ignore line: [#include <...> search starts here:]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 2aa4fcf5c9208168c5e2d38a58fc2a97]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_d3cd3.dir\\']
-        ignore line: [ as -v -o CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\cctHIzvy.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_88e83.dir/']
+        ignore line: [ as -v -o CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj C:\\Users\\askel\\AppData\\Local\\Temp\\ccWV50mx.s]
         ignore line: [GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40]
-        ignore line: [COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/]
-        ignore line: [LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_d3cd3.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_d3cd3.exe]
-        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_d3cd3.dir\\link.txt --verbose=1]
-        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_d3cd3.dir/objects.a]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_d3cd3.dir/objects.a @CMakeFiles\\cmTC_d3cd3.dir\\objects1.rsp]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -v -Wl --whole-archive CMakeFiles\\cmTC_d3cd3.dir/objects.a -Wl --no-whole-archive -o cmTC_d3cd3.exe -Wl --out-implib libcmTC_d3cd3.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+        ignore line: [COMPILER_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/]
+        ignore line: [LIBRARY_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe  -v CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj -o cmTC_88e83.exe -Wl --out-implib libcmTC_88e83.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
-        ignore line: [COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe]
-        ignore line: [COLLECT_LTO_WRAPPER=C:/Users/Aslak/AppData/Local/Programs/CLion\\ 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
+        ignore line: [COLLECT_GCC=C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
         ignore line: [Target: x86_64-w64-mingw32]
         ignore line: [Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends]
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/]
-        ignore line: [LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d3cd3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d3cd3.']
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_d3cd3.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_d3cd3.dir/objects.a --no-whole-archive --out-implib libcmTC_d3cd3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d3cd3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d3cd3.']
-        ignore line: [mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gtw3mm']
-        ignore line: []
-        ignore line: []
-        implicit libs: []
-        implicit objs: []
-        implicit dirs: []
+        ignore line: [COMPILER_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/]
+        ignore line: [LIBRARY_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_88e83.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_88e83.']
+        link line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_88e83.exe C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_88e83.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_88e83.exe] ==> ignore
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o] ==> obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..]
+          arg [CMakeFiles/cmTC_88e83.dir/CMakeCCompilerABI.c.obj] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_88e83.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lgcc_eh] ==> lib [gcc_eh]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lpthread] ==> lib [pthread]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-liconv] ==> lib [iconv]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lgcc_eh] ==> lib [gcc_eh]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o] ==> obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o]
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o] ==> obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        remove lib [gcc_eh]
+        remove lib [msvcrt]
+        remove lib [gcc_eh]
+        remove lib [msvcrt]
+        collapse obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib/crt2.o]
+        collapse obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o]
+        collapse obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib/default-manifest.o]
+        collapse obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib]
+        implicit libs: [mingw32;gcc;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;iconv;mingw32;gcc;moldname;mingwex;kernel32]
+        implicit objs: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib/crt2.o;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib/default-manifest.o;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        implicit dirs: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib]
         implicit fwks: []
       
       
   -
     kind: "try_compile-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:2 (project)"
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zrwk6w"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zrwk6w"
+      source: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-h16c7b"
+      binary: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-h16c7b"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -259,404 +297,393 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zrwk6w'
+        Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-h16c7b'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_e9306/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_e9306.dir\\build.make CMakeFiles/cmTC_e9306.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zrwk6w'
-        Building CXX object CMakeFiles/cmTC_e9306.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_4dc7c
+        [1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
-        COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE
+        COLLECT_GCC=C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\g++.exe
         Target: x86_64-w64-mingw32
         Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e9306.dir\\'
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_e9306.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\cciXxd5T.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4dc7c.dir/'
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_4dc7c.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\askel\\AppData\\Local\\Temp\\ccHpT7Rh.s
         GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.2.0-p4, MPC version 1.3.1, isl version none
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"
         ignoring nonexistent directory "/win/include"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../include"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"
-        ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../include"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"
+        ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"
         ignoring nonexistent directory "/mingw/include"
         #include "..." search starts here:
         #include <...> search starts here:
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: e75de627edc3c57e31324b930b15b056
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e9306.dir\\'
-         as -v -o CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\cciXxd5T.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4dc7c.dir/'
+         as -v -o CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\askel\\AppData\\Local\\Temp\\ccHpT7Rh.s
         GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40
-        COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/
-        LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_e9306.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_e9306.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_e9306.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_e9306.dir/objects.a @CMakeFiles\\cmTC_e9306.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl,--whole-archive CMakeFiles\\cmTC_e9306.dir/objects.a -Wl,--no-whole-archive -o cmTC_e9306.exe -Wl,--out-implib,libcmTC_e9306.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+        COMPILER_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/
+        LIBRARY_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../\x0d
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.'\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\g++.exe  -v CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_4dc7c.exe -Wl,--out-implib,libcmTC_4dc7c.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
-        COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE
-        COLLECT_LTO_WRAPPER=C:/Users/Aslak/AppData/Local/Programs/CLion\\ 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
+        COLLECT_GCC=C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\g++.exe
+        COLLECT_LTO_WRAPPER=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
         Target: x86_64-w64-mingw32
         Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/
-        LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e9306.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_e9306.'
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_e9306.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_e9306.dir/objects.a --no-whole-archive --out-implib libcmTC_e9306.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e9306.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_e9306.'
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zrwk6w'
+        COMPILER_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/
+        LIBRARY_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4dc7c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4dc7c.'
+         C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_4dc7c.exe C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4dc7c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o\x0d
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4dc7c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4dc7c.'\x0d
         
       exitCode: 0
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:2 (project)"
     message: |
       Parsed CXX implicit include dir info: rv=done
         found start of include info
         found start of implicit include info
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
-          add: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+          add: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         end of search list found
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/include]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
-        collapse include dir [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/x86_64-w64-mingw32/include]
-        implicit include dirs: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/include;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/x86_64-w64-mingw32/include]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/include]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+        collapse include dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/include]
+        implicit include dirs: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/include;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/include]
       
       
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:159 (message)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:159 (message)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:2 (project)"
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zrwk6w']
+        ignore line: [Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-h16c7b']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_e9306/fast]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_e9306.dir\\build.make CMakeFiles/cmTC_e9306.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zrwk6w']
-        ignore line: [Building CXX object CMakeFiles/cmTC_e9306.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_4dc7c]
+        ignore line: [[1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
-        ignore line: [COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE]
+        ignore line: [COLLECT_GCC=C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
         ignore line: [Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends]
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e9306.dir\\']
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_e9306.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\cciXxd5T.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4dc7c.dir/']
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_4dc7c.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\askel\\AppData\\Local\\Temp\\ccHpT7Rh.s]
         ignore line: [GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.2.0-p4  MPC version 1.3.1  isl version none]
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"]
         ignore line: [ignoring nonexistent directory "/win/include"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../include"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"]
-        ignore line: [ignoring duplicate directory "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../include"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"]
         ignore line: [ignoring nonexistent directory "/mingw/include"]
         ignore line: [#include "..." search starts here:]
         ignore line: [#include <...> search starts here:]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+        ignore line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: e75de627edc3c57e31324b930b15b056]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e9306.dir\\']
-        ignore line: [ as -v -o CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\cciXxd5T.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4dc7c.dir/']
+        ignore line: [ as -v -o CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\askel\\AppData\\Local\\Temp\\ccHpT7Rh.s]
         ignore line: [GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40]
-        ignore line: [COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/]
-        ignore line: [LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e9306.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_e9306.exe]
-        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_e9306.dir\\link.txt --verbose=1]
-        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_e9306.dir/objects.a]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_e9306.dir/objects.a @CMakeFiles\\cmTC_e9306.dir\\objects1.rsp]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl --whole-archive CMakeFiles\\cmTC_e9306.dir/objects.a -Wl --no-whole-archive -o cmTC_e9306.exe -Wl --out-implib libcmTC_e9306.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+        ignore line: [COMPILER_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/]
+        ignore line: [LIBRARY_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../\x0d]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.'\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\g++.exe  -v CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_4dc7c.exe -Wl --out-implib libcmTC_4dc7c.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
-        ignore line: [COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE]
-        ignore line: [COLLECT_LTO_WRAPPER=C:/Users/Aslak/AppData/Local/Programs/CLion\\ 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
+        ignore line: [COLLECT_GCC=C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\g++.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
         ignore line: [Target: x86_64-w64-mingw32]
         ignore line: [Configured with: ../gcc-13.1.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends]
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/]
-        ignore line: [LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e9306.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_e9306.']
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_e9306.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_e9306.dir/objects.a --no-whole-archive --out-implib libcmTC_e9306.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e9306.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_e9306.']
-        ignore line: [mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zrwk6w']
-        ignore line: []
-        ignore line: []
-        implicit libs: []
-        implicit objs: []
-        implicit dirs: []
+        ignore line: [COMPILER_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/]
+        ignore line: [LIBRARY_PATH=C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4dc7c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4dc7c.']
+        link line: [ C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_4dc7c.exe C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4dc7c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o\x0d]
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_4dc7c.exe] ==> ignore
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o] ==> obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib]
+          arg [-LC:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..] ==> dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..]
+          arg [CMakeFiles/cmTC_4dc7c.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_4dc7c.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lpthread] ==> lib [pthread]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-liconv] ==> lib [iconv]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o] ==> obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o]
+          arg [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o] ==> obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        remove lib [msvcrt]
+        remove lib [msvcrt]
+        collapse obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib/crt2.o]
+        collapse obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o]
+        collapse obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib/default-manifest.o]
+        collapse obj [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..] ==> [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib]
+        implicit libs: [stdc++;mingw32;gcc_s;gcc;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;iconv;mingw32;gcc_s;gcc;moldname;mingwex;kernel32]
+        implicit objs: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib/crt2.o;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib/default-manifest.o;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        implicit dirs: [C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib/gcc;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/x86_64-w64-mingw32/lib;C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/lib]
         implicit fwks: []
       
       
   -
     kind: "try_compile-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindThreads.cmake:163 (_threads_check_libc)"
       - "Dependencies/libs/glfw-3.3.9/CMakeLists.txt:61 (find_package)"
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-szc737"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-szc737"
+      source: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2orqbz"
+      binary: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2orqbz"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
       CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
     buildResult:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-szc737'
+        Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2orqbz'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_8c780/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_8c780.dir\\build.make CMakeFiles/cmTC_8c780.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-szc737'
-        Building C object CMakeFiles/cmTC_8c780.dir/src.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -DCMAKE_HAVE_LIBC_PTHREAD  -fdiagnostics-color=always -o CMakeFiles\\cmTC_8c780.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-szc737\\src.c
-        Linking C executable cmTC_8c780.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_8c780.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_8c780.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_8c780.dir/objects.a @CMakeFiles\\cmTC_8c780.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_8c780.dir/objects.a -Wl,--no-whole-archive -o cmTC_8c780.exe -Wl,--out-implib,libcmTC_8c780.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_8c780.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-szc737'
+        Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_a1ed2
+        [1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe -DCMAKE_HAVE_LIBC_PTHREAD  -fdiagnostics-color=always -o CMakeFiles/cmTC_a1ed2.dir/src.c.obj -c C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2orqbz/src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe   CMakeFiles/cmTC_a1ed2.dir/src.c.obj -o cmTC_a1ed2.exe -Wl,--out-implib,libcmTC_a1ed2.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
     kind: "try_compile-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
       - "Dependencies/libs/glfw-3.3.9/CMakeLists.txt:110 (check_include_file)"
     checks:
       - "Looking for dinput.h"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hb7s6v"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hb7s6v"
+      source: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pnsopu"
+      binary: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pnsopu"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
       CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
     buildResult:
       variable: "DINPUT_H_FOUND"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hb7s6v'
+        Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pnsopu'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_2150e/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_2150e.dir\\build.make CMakeFiles/cmTC_2150e.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hb7s6v'
-        Building C object CMakeFiles/cmTC_2150e.dir/CheckIncludeFile.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always -o CMakeFiles\\cmTC_2150e.dir\\CheckIncludeFile.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-hb7s6v\\CheckIncludeFile.c
-        Linking C executable cmTC_2150e.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_2150e.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_2150e.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_2150e.dir/objects.a @CMakeFiles\\cmTC_2150e.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_2150e.dir/objects.a -Wl,--no-whole-archive -o cmTC_2150e.exe -Wl,--out-implib,libcmTC_2150e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_2150e.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hb7s6v'
+        Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_692ab
+        [1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always -o CMakeFiles/cmTC_692ab.dir/CheckIncludeFile.c.obj -c C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pnsopu/CheckIncludeFile.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe   CMakeFiles/cmTC_692ab.dir/CheckIncludeFile.c.obj -o cmTC_692ab.exe -Wl,--out-implib,libcmTC_692ab.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
     kind: "try_compile-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
       - "Dependencies/libs/glfw-3.3.9/CMakeLists.txt:111 (check_include_file)"
     checks:
       - "Looking for xinput.h"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gb783p"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gb783p"
+      source: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-trga6o"
+      binary: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-trga6o"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
       CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
     buildResult:
       variable: "XINPUT_H_FOUND"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gb783p'
+        Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-trga6o'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_8c738/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_8c738.dir\\build.make CMakeFiles/cmTC_8c738.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gb783p'
-        Building C object CMakeFiles/cmTC_8c738.dir/CheckIncludeFile.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always -o CMakeFiles\\cmTC_8c738.dir\\CheckIncludeFile.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-gb783p\\CheckIncludeFile.c
-        Linking C executable cmTC_8c738.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_8c738.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_8c738.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_8c738.dir/objects.a @CMakeFiles\\cmTC_8c738.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_8c738.dir/objects.a -Wl,--no-whole-archive -o cmTC_8c738.exe -Wl,--out-implib,libcmTC_8c738.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_8c738.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gb783p'
+        Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_cecca
+        [1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always -o CMakeFiles/cmTC_cecca.dir/CheckIncludeFile.c.obj -c C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-trga6o/CheckIncludeFile.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe   CMakeFiles/cmTC_cecca.dir/CheckIncludeFile.c.obj -o cmTC_cecca.exe -Wl,--out-implib,libcmTC_cecca.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
     kind: "try_compile-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake:51 (cmake_check_compiler_flag)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake:51 (cmake_check_compiler_flag)"
       - "Dependencies/libs/glfw-3.3.9/CMakeLists.txt:121 (check_c_compiler_flag)"
     checks:
       - "Performing Test _GLFW_HAS_DEP"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ky046d"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ky046d"
+      source: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dyu8qo"
+      binary: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dyu8qo"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
       CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
     buildResult:
       variable: "_GLFW_HAS_DEP"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ky046d'
+        Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dyu8qo'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_95e0c/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_95e0c.dir\\build.make CMakeFiles/cmTC_95e0c.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ky046d'
-        Building C object CMakeFiles/cmTC_95e0c.dir/src.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_DEP  -Wl,--nxcompat -fdiagnostics-color=always -o CMakeFiles\\cmTC_95e0c.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-ky046d\\src.c
-        Linking C executable cmTC_95e0c.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_95e0c.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_95e0c.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_95e0c.dir/objects.a @CMakeFiles\\cmTC_95e0c.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--nxcompat -Wl,--whole-archive CMakeFiles\\cmTC_95e0c.dir/objects.a -Wl,--no-whole-archive -o cmTC_95e0c.exe -Wl,--out-implib,libcmTC_95e0c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_95e0c.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ky046d'
+        Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_39bdc
+        [1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_DEP  -Wl,--nxcompat -fdiagnostics-color=always -o CMakeFiles/cmTC_39bdc.dir/src.c.obj -c C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dyu8qo/src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe -Wl,--nxcompat  CMakeFiles/cmTC_39bdc.dir/src.c.obj -o cmTC_39bdc.exe -Wl,--out-implib,libcmTC_39bdc.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
     kind: "try_compile-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake:51 (cmake_check_compiler_flag)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake:51 (cmake_check_compiler_flag)"
       - "Dependencies/libs/glfw-3.3.9/CMakeLists.txt:128 (check_c_compiler_flag)"
     checks:
       - "Performing Test _GLFW_HAS_ASLR"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4lg02a"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4lg02a"
+      source: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-egino2"
+      binary: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-egino2"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
       CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
     buildResult:
       variable: "_GLFW_HAS_ASLR"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4lg02a'
+        Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-egino2'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_f7097/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f7097.dir\\build.make CMakeFiles/cmTC_f7097.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4lg02a'
-        Building C object CMakeFiles/cmTC_f7097.dir/src.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_ASLR  -Wl,--dynamicbase -fdiagnostics-color=always -o CMakeFiles\\cmTC_f7097.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-4lg02a\\src.c
-        Linking C executable cmTC_f7097.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_f7097.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_f7097.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_f7097.dir/objects.a @CMakeFiles\\cmTC_f7097.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--dynamicbase -Wl,--whole-archive CMakeFiles\\cmTC_f7097.dir/objects.a -Wl,--no-whole-archive -o cmTC_f7097.exe -Wl,--out-implib,libcmTC_f7097.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_f7097.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4lg02a'
+        Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_44c62
+        [1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_ASLR  -Wl,--dynamicbase -fdiagnostics-color=always -o CMakeFiles/cmTC_44c62.dir/src.c.obj -c C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-egino2/src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe -Wl,--dynamicbase  CMakeFiles/cmTC_44c62.dir/src.c.obj -o cmTC_44c62.exe -Wl,--out-implib,libcmTC_44c62.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
     kind: "try_compile-v1"
     backtrace:
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
-      - "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake:51 (cmake_check_compiler_flag)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake:51 (cmake_check_compiler_flag)"
       - "Dependencies/libs/glfw-3.3.9/CMakeLists.txt:135 (check_c_compiler_flag)"
     checks:
       - "Performing Test _GLFW_HAS_64ASLR"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a876a3"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a876a3"
+      source: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-x168mt"
+      binary: "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-x168mt"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
       CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/modules"
     buildResult:
       variable: "_GLFW_HAS_64ASLR"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a876a3'
+        Change Dir: 'C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-x168mt'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_d5808/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_d5808.dir\\build.make CMakeFiles/cmTC_d5808.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a876a3'
-        Building C object CMakeFiles/cmTC_d5808.dir/src.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_64ASLR  -Wl,--high-entropy-va -fdiagnostics-color=always -o CMakeFiles\\cmTC_d5808.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-a876a3\\src.c
-        Linking C executable cmTC_d5808.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_d5808.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_d5808.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_d5808.dir/objects.a @CMakeFiles\\cmTC_d5808.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--high-entropy-va -Wl,--whole-archive CMakeFiles\\cmTC_d5808.dir/objects.a -Wl,--no-whole-archive -o cmTC_d5808.exe -Wl,--out-implib,libcmTC_d5808.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_d5808.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a876a3'
+        Run Build Command(s): C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/ninja/win/x64/ninja.exe -v cmTC_cf62e
+        [1/2] C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_64ASLR  -Wl,--high-entropy-va -fdiagnostics-color=always -o CMakeFiles/cmTC_cf62e.dir/src.c.obj -c C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-x168mt/src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\askel\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-1\\241.14494.229\\bin\\mingw\\bin\\gcc.exe -Wl,--high-entropy-va  CMakeFiles/cmTC_cf62e.dir/src.c.obj -o cmTC_cf62e.exe -Wl,--out-implib,libcmTC_cf62e.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
 ...

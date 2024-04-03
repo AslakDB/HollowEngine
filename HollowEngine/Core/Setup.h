@@ -7,13 +7,15 @@
 #ifndef MAIN_CPP_SETUP_H
 #define MAIN_CPP_SETUP_H
 
+void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 struct SetUp
 {
-    GLFWwindow* window;
+
+
     unsigned shaderProgram;
     int value1;
 
-    void setup() {
+    void setup(const char* title, GLFWwindow* window, int SCR_WIDTH, int SCR_HEIGHT) {
         // glfw: initialize and configure
         // ------------------------------
         glfwInit();
@@ -25,7 +27,7 @@ struct SetUp
         glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 #endif
 
-        window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, "Oppgave1", NULL, NULL);
+        window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, title, NULL, NULL);
         if (window == NULL)
         {
             std::cout << "Failed to create GLFW window" << std::endl;
@@ -45,17 +47,24 @@ struct SetUp
             return;
         }
 
-        shader.CreateVertexShader(vertexShaderSource);
+        /*shader.CreateVertexShader(vertexShaderSource);
         shader.CreateFragmentShader(fragmentShaderSource);
         shader.LinkProgram();
         shaderProgram = shader.GetProgram();
+        */
 
         glEnable(GL_DEPTH_TEST);
-        glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
-        glfwSetCursorPosCallback(window, mouse_callback);
+       // glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
+      //  glfwSetCursorPosCallback(window, mouse_callback);
 
         return;
     }
-};
 
+
+
+};
+void framebuffer_size_callback(GLFWwindow* window, int width, int height)
+{
+    glViewport(0, 0, width, height);
+}
 #endif //MAIN_CPP_SETUP_H

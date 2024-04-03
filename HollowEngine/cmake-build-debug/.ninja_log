@@ -1,8 +1,17 @@
 # ninja log v5
 17	752	7324604053729909	CMakeFiles/HollowEngine.dir/main.cpp.obj	fa3ff08f761e04de
 516	705	7324666145920570	HollowEngine.exe	e0d35c1336d61ebd
-4	294	7324666610631995	build.ninja	a45f15d53e2b62fd
+4	294	7337578088190515	build.ninja	a45f15d53e2b62fd
 21	369	7324594543375782	CMakeFiles/HollowEngine.dir/glad.c.obj	fd169a19e93472d0
 22	790	7324619256506707	CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj	eb54d7fff2d94629
 27	336	7324619251998415	CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj	7f898d22047e3aef
 6	515	7324666144343385	CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj	524cf1c734e54fff
+50	178	7337580760586528	CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj	580123bb1e70a7b1
+53	528	7337580764079597	CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj	8e2ab8b60c9b25c4
+15	573	7337580764533505	CMakeFiles/HollowEngine.dir/main.cpp.obj	d3ce6d2311983e4e
+46	839	7337580767189060	CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj	b584d208af479766
+56	900	7337580767800892	CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj	5ff0a3fe4ae464bb
+43	1169	7337580770498420	CMakeFiles/HollowEngine.dir/glad.c.obj	82c081101902b5d0
+1170	1386	7337580772629095	HollowEngine.exe	9ea5867b0f95f8fb
+21	695	7338369873659377	CMakeFiles/HollowEngine.dir/main.cpp.obj	d3ce6d2311983e4e
+23	496	7338371967703764	CMakeFiles/HollowEngine.dir/main.cpp.obj	d3ce6d2311983e4e
