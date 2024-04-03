@@ -143,7 +143,6 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
- D:\School\3DProgramming\HollowEngine\HollowEngine\Core\Actor.h \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/glm.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/_fixes.hpp \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
