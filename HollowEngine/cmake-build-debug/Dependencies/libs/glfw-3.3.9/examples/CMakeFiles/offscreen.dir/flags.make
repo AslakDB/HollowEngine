@@ -11,7 +11,7 @@ C_FLAGS = -g -std=gnu99 -fdiagnostics-color=always
 
 RC_DEFINES = 
 
-RC_INCLUDES = -I D:\School\3DProgramming\HollowEngine\HollowEngine\Dependencies\includes -I D:\School\3DProgramming\HollowEngine\HollowEngine\Dependencies\libs -I D:\School\3DProgramming\HollowEngine\HollowEngine\glad.c -I D:\School\3DProgramming\HollowEngine\HollowEngine\Dependencies\libs\glfw-3.3.9\deps -I D:\School\3DProgramming\HollowEngine\HollowEngine\Dependencies\libs\glfw-3.3.9\include
+RC_INCLUDES = -I D:\School\3DProgramming\HollowEngine\HollowEngine\Dependencies\includes -I D:\School\3DProgramming\HollowEngine\HollowEngine\Dependencies\libs -I D:\School\3DProgramming\HollowEngine\HollowEngine\HollowEngine\glad.c -I D:\School\3DProgramming\HollowEngine\HollowEngine\core -I D:\School\3DProgramming\HollowEngine\HollowEngine\Dependencies\libs\glfw-3.3.9\deps -I D:\School\3DProgramming\HollowEngine\HollowEngine\Dependencies\libs\glfw-3.3.9\include
 
 RC_FLAGS = 
 

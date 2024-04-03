@@ -15,7 +15,7 @@ struct SetUp
     unsigned shaderProgram;
     int value1;
 
-    void setup(const char* title, GLFWwindow* window, int SCR_WIDTH, int SCR_HEIGHT) {
+    void setup(const char* title, GLFWwindow*& window, int SCR_WIDTH, int SCR_HEIGHT) {
         // glfw: initialize and configure
         // ------------------------------
         glfwInit();
@@ -27,7 +27,7 @@ struct SetUp
         glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 #endif
 
-        window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, title, NULL, NULL);
+        window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, "OST", NULL, NULL);
         if (window == NULL)
         {
             std::cout << "Failed to create GLFW window" << std::endl;
@@ -57,7 +57,6 @@ struct SetUp
        // glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
       //  glfwSetCursorPosCallback(window, mouse_callback);
 
-        return;
     }
 
 

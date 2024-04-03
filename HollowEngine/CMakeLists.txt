@@ -1,14 +1,15 @@
-﻿cmake_minimum_required(VERSION 3.28)
+﻿cmake_minimum_required(VERSION 3.8)
 project(HollowEngine)
 
 set(CMAKE_CXX_STANDARD 17)
 
 include_directories(Dependencies/includes)
 include_directories(Dependencies/libs)
-include_directories(glad.c)
+include_directories(HollowEngine/glad.c)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/core)
 
 
-add_subdirectory(Dependencies/libs/glfw-3.3.9)
+
 
 set(HEADER_FILES
         Core/Camera.h 
@@ -26,5 +27,10 @@ set(SRC_FILES
         Core/Actor.cpp
         Scene/Window.cpp
         Core/Shaders.cpp
-) 
+)
+
+add_subdirectory(Dependencies/libs/glfw-3.3.9)
+
+
 add_executable(HollowEngine ${HEADER_FILES} ${SRC_FILES})
+target_link_libraries(HollowEngine glfw)

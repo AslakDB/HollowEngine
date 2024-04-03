@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
@@ -16,6 +17,8 @@ int main() {
     GLFWwindow* window;
 
     set_up.setup("Window", window, SCR_WIDTH,SCR_HEIGHT);
+
+
     render.render(window);
 
     glfwTerminate();

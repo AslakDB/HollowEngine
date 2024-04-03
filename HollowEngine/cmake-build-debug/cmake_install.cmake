@@ -1,4 +1,4 @@
-# Install script for directory: C:/3DProg/Github/HollowEngine/HollowEngine
+# Install script for directory: D:/School/3DProgramming/HollowEngine/HollowEngine
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,12 +34,13 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/cmake_install.cmake")
+  # Include the install script for each subdirectory.
+  include("D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/cmake_install.cmake")
+
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

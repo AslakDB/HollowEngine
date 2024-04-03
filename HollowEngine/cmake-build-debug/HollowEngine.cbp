@@ -26,7 +26,9 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
@@ -51,7 +53,9 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
@@ -160,7 +164,8 @@
 					<Add option="-DWINVER=0x0501"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src"/>
@@ -192,7 +197,8 @@
 					<Add option="-DWINVER=0x0501"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src"/>
@@ -220,7 +226,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -247,7 +254,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -274,7 +282,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -301,7 +310,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -328,7 +338,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -355,7 +366,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -382,7 +394,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -409,7 +422,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -436,7 +450,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -463,7 +478,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -490,7 +506,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -517,7 +534,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -544,7 +562,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -571,7 +590,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -598,7 +618,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -625,7 +646,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -652,7 +674,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -679,7 +702,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -706,7 +730,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -733,7 +758,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -760,7 +786,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -787,7 +814,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -814,7 +842,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -841,7 +870,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -868,7 +898,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -895,7 +926,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -922,7 +954,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -949,7 +982,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -976,7 +1010,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1003,7 +1038,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1030,7 +1066,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1057,7 +1094,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1084,7 +1122,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1111,7 +1150,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1138,7 +1178,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1165,7 +1206,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1192,7 +1234,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1219,7 +1262,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1246,7 +1290,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1273,7 +1318,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1300,7 +1346,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1327,7 +1374,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1354,7 +1402,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1381,7 +1430,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1408,7 +1458,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1435,7 +1486,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1462,7 +1514,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1489,7 +1542,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1516,7 +1570,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1543,7 +1598,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1570,7 +1626,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1597,7 +1654,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1624,7 +1682,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1651,7 +1710,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1678,7 +1738,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1705,7 +1766,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1732,7 +1794,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1759,7 +1822,8 @@
 				<Compiler>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"/>
-					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"/>
+					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/core"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"/>
 					<Add directory="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"/>
 					<Add directory="C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
@@ -1797,6 +1861,9 @@
 			<Option target="HollowEngine"/>
 		</Unit>
 		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Shaders.h">
+			<Option target="HollowEngine"/>
+		</Unit>
+		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/render.h">
 			<Option target="HollowEngine"/>
 		</Unit>
 		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMake/GenerateMappings.cmake">

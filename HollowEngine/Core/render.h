@@ -11,6 +11,7 @@
 struct Render {
 
     void render(GLFWwindow* window) {
+
         while (!glfwWindowShouldClose(window))
             {
 
