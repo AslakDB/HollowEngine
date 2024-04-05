@@ -7,6 +7,7 @@ include_directories(Dependencies/includes)
 include_directories(Dependencies/libs)
 include_directories(HollowEngine/glad.c)
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/core)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/Shaders)
 
 
 
@@ -18,6 +19,8 @@ set(HEADER_FILES
         Core/Shaders.h
         Core/Setup.h
         Core/render.h
+        Core/BasicPlane.h
+        Core/DrawObjects.h
 )
 
 set(SRC_FILES
@@ -27,6 +30,8 @@ set(SRC_FILES
         Core/Actor.cpp
         Scene/Window.cpp
         Core/Shaders.cpp
+        Core/BasicPlane.cpp
+
 )
 
 add_subdirectory(Dependencies/libs/glfw-3.3.9)

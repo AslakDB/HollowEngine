@@ -613,6 +613,30 @@ Core/Actor.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/Actor.cpp.s
 .PHONY : Core/Actor.cpp.s
 
+Core/BasicPlane.obj: Core/BasicPlane.cpp.obj
+.PHONY : Core/BasicPlane.obj
+
+# target to build an object file
+Core/BasicPlane.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj
+.PHONY : Core/BasicPlane.cpp.obj
+
+Core/BasicPlane.i: Core/BasicPlane.cpp.i
+.PHONY : Core/BasicPlane.i
+
+# target to preprocess a source file
+Core/BasicPlane.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.i
+.PHONY : Core/BasicPlane.cpp.i
+
+Core/BasicPlane.s: Core/BasicPlane.cpp.s
+.PHONY : Core/BasicPlane.s
+
+# target to generate assembly for a file
+Core/BasicPlane.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.s
+.PHONY : Core/BasicPlane.cpp.s
+
 Core/Camera.obj: Core/Camera.cpp.obj
 .PHONY : Core/Camera.obj
 
@@ -781,6 +805,9 @@ help:
 	@echo ... Core/Actor.obj
 	@echo ... Core/Actor.i
 	@echo ... Core/Actor.s
+	@echo ... Core/BasicPlane.obj
+	@echo ... Core/BasicPlane.i
+	@echo ... Core/BasicPlane.s
 	@echo ... Core/Camera.obj
 	@echo ... Core/Camera.i
 	@echo ... Core/Camera.s

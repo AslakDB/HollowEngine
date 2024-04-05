@@ -4,43 +4,23 @@
 CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj: D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Actor.cpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Actor.h
 
-CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Camera.cpp \
+CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj: D:/School/3DProgramming/HollowEngine/HollowEngine/Core/BasicPlane.cpp \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
@@ -49,55 +29,37 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: D:/School/3DProgramming/HollowE
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cfloat \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
@@ -112,17 +74,10 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: D:/School/3DProgramming/HollowE
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
@@ -132,46 +87,26 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: D:/School/3DProgramming/HollowE
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/assert.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/errno.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/float.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/limits.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/locale.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/math.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/process.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/signal.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/time.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/string.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/KHR/khrplatform.h \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glad/glad.h \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/common.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/_fixes.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/_vectorize.hpp \
@@ -279,24 +214,32 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: D:/School/3DProgramming/HollowE
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_constants.inl \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_int_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_uint_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool2_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool3.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool3_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool4.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double2_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double4.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float2_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float3.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float3_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int2_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int3.hpp \
@@ -305,6 +248,8 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: D:/School/3DProgramming/HollowE
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int4_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint2_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint3.hpp \
@@ -322,6 +267,365 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: D:/School/3DProgramming/HollowE
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/matrix_transform.inl \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/vec1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/integer.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat3x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat3x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat3x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat4x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat4x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat4x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/matrix.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/packing.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/simd/platform.h \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/trigonometric.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vec2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vec3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vec4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vector_relational.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Core/BasicPlane.h
+
+CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Camera.cpp \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cfloat \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/assert.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/errno.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/float.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/limits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/locale.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/math.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/process.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/signal.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/string.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/time.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/KHR/khrplatform.h \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glad/glad.h \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/common.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/_fixes.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/_vectorize.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/compute_common.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/compute_vector_relational.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_common.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_exponential.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_geometric.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_integer.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_matrix.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_packing.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_trigonometric.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_vector_relational.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/qualifier.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/setup.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_float.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_half.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_half.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x2.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x3.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x4.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x2.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x3.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x4.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x2.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x3.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x4.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_quat.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_quat.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec1.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec2.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec3.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec4.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/exponential.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_clip_space.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_clip_space.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float3x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float3x2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float3x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float3x3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float3x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float3x4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float4x2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float4x2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float4x3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float4x3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float4x4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float4x4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_projection.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_projection.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_transform.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_transform.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_common.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_common.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_double.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_double_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_float.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_float_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_geometric.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_geometric.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_relational.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_relational.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_transform.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_transform.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_trigonometric.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_trigonometric.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_constants.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_constants.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_int_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_uint_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float2_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float3_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int2_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int3_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int4_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint2.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint2_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint3.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint3_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint4.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint4_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/fwd.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/geometric.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/glm.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/constants.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/constants.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/matrix_transform.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/matrix_transform.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/vec1.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/integer.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x3.hpp \
@@ -1139,6 +1443,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
@@ -1146,6 +1451,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
@@ -1171,14 +1477,18 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
@@ -1186,6 +1496,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
@@ -1197,6 +1508,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
@@ -1207,6 +1519,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
@@ -1216,6 +1529,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
@@ -1237,9 +1551,12 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
@@ -1282,6 +1599,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/signal.h \
@@ -1289,6 +1607,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/string.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
   C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
@@ -1406,24 +1725,32 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_constants.inl \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_int_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_uint_sized.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool2_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool3.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool3_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool4.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double2_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double4.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float2_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float3.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float3_precision.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4_precision.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int2_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int3.hpp \
@@ -1432,6 +1759,8 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int4_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint2_sized.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint3.hpp \
@@ -1449,6 +1778,9 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/matrix_transform.inl \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.inl \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/vec1.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/integer.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x2.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x3.hpp \
@@ -1467,8 +1799,10 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: D:/School/3DProgramming/HollowEngine/H
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vec3.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vec4.hpp \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vector_relational.hpp \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Core/BasicPlane.h \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Camera.h \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Setup.h \
+  D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Shaders.h \
   D:/School/3DProgramming/HollowEngine/HollowEngine/Core/render.h
 
 
@@ -1476,19 +1810,15 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Actor.cpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x4.hpp:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/fltwinerror.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/prfchiintrin.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_relational.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ioapiset.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h:
-
 D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Actor.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Core/BasicPlane.cpp:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h:
 
@@ -1498,13 +1828,11 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/rpcnsip.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Camera.cpp:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avxvnniint8intrin.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/intrin-impl.h:
 
@@ -1516,59 +1844,11 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/matrix.hpp:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/rtmintrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/winspool.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/vadefs.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ia32intrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/specstrings.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/concurrencysal.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x4.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxint8intrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vector_relational.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vec3.hpp:
 
@@ -1576,21 +1856,13 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_common.inl:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/reason.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/cetintrin.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/shaintrin.h:
 
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/sgxintrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/datetimeapi.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/windef.h:
 
@@ -1600,11 +1872,15 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/incl
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/datetimeapi.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/matrix_transform.inl:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x4.inl:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h:
 
@@ -1630,30 +1906,6 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/func_geometric.inl:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_quat.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x4.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_float_precision.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsavesintrin.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/x86gprintrin.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/windows.h:
@@ -1672,19 +1924,21 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/winnt.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/dpapi.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/guiddef.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/basetsd.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vnnivlintrin.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxint8intrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vector_relational.hpp:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h:
 
@@ -1692,9 +1946,9 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h:
-
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x2.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/cldemoteintrin.h:
 
@@ -1702,7 +1956,23 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h:
 
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x3.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat3x2.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x3_precision.hpp:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fmaintrin.h:
 
@@ -1714,45 +1984,39 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/incl
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h:
 
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x2.hpp:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/rtmintrin.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float3_precision.hpp:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/dde.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bitalgintrin.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/bcrypt.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/apisetcconv.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmivlintrin.h:
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec4.inl:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ktmtypes.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint4.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/clzerointrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avxvnniint8intrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef:
 
@@ -1766,25 +2030,19 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxcomplexintrin.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x2.hpp:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x4_precision.hpp:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/processthreadsapi.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/objidl.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype:
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x2.hpp:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h:
 
@@ -1792,45 +2050,27 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool4_precision.hpp:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_uint_sized.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/unknwn.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_wsa_errnos.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec4.hpp:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/dde.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pkuintrin.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitintrin.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/virtdisk.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_ip_types.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vpopcntdqintrin.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_quat.inl:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_wsa_errnos.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/errno.h:
 
@@ -1840,61 +2080,9 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/geometric.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_xmitfile.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_ip_types.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x2_precision.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/matrix_transform.inl:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x4.inl:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/process.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3_precision.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double2.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/excpt.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ktmtypes.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x3.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat3x2.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x3_precision.hpp:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc:
 
@@ -1914,35 +2102,13 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x2.hpp:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/mmiscapi.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Camera.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/float.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/msxml.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pshpack4.h:
 
@@ -1960,25 +2126,23 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h:
 
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/mmiscapi.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bf16vlintrin.h:
 
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wingdi.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_transform.inl:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_int_sized.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_timeval.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_socket_types.h:
 
@@ -1988,63 +2152,29 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/incl
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ddeml.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x3.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/oleidl.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ctype.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/float.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/limits.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/locale.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/malloc.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/math.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmi2intrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_geometric.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/tmmintrin.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x4.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bf16intrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/objidl.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x2.hpp:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/bmiintrin.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/signal.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx5124fmapsintrin.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitxintrin.h:
 
@@ -2052,41 +2182,29 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/incl
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdint.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/profileapi.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdio.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/handleapi.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdlib.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/mciapi.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int2.hpp:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fxsrintrin.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/string.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/fwd.hpp:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/winspool.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/types.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/vadefs.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/rpc.h:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ia32intrin.h:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4_precision.hpp:
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/time.h:
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/KHR/khrplatform.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wchar.h:
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glad/glad.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/dlgs.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/errhandlingapi.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wctype.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/constants.hpp:
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_double.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/common.hpp:
 
@@ -2152,6 +2270,12 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat2x4.hpp:
 
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x2.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float3_precision.hpp:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/realtimeapiset.h:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat3x2.inl:
@@ -2174,9 +2298,21 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/deta
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x3.hpp:
 
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x4.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
+
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_mat4x4.inl:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512dqintrin.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_quat.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_quat.inl:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint2.hpp:
 
@@ -2186,11 +2322,11 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec1.inl:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1.hpp:
-
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec2.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat4x3.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float3x3.hpp:
 
@@ -2199,12 +2335,6 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/deta
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec3.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat4x2.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bitalgintrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/bcrypt.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/type_vec4.inl:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sysinfoapi.h:
 
@@ -2219,6 +2349,10 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x2.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x2_precision.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double2x2_precision.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/tsxldtrkintrin.h:
 
@@ -2236,15 +2370,33 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x3_precision.hpp:
 
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/tmmintrin.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x4.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bf16intrin.h:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/immintrin.h:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double3x4_precision.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x2_precision.hpp:
 
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x3.hpp:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/raointintrin.h:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x3_precision.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/processthreadsapi.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_double4x4_precision.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_float2x4.hpp:
 
@@ -2282,29 +2434,59 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_common.hpp:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_double.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glad/glad.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdarg.h:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_double_precision.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_float.hpp:
 
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_float_precision.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsavesintrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_geometric.hpp:
+
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_geometric.inl:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/emmintrin.h:
 
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_relational.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ioapiset.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h:
+
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_relational.inl:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_transform.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wingdi.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_transform.inl:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_int_sized.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_trigonometric.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/quaternion_trigonometric.inl:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_constants.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/scalar_uint_sized.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1_precision.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool2.hpp:
 
@@ -2316,11 +2498,29 @@ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool4.hpp:
 
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1_precision.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1_sized.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1_precision.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3_precision.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/process.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double2.hpp:
+
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/processtopologyapi.h:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double3.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double4.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float2.hpp:
 
@@ -2331,6 +2531,24 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/incl
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.inl:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/time.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/rpc.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float4_precision.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512fp16intrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/driverspecs.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1_sized.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int2.hpp:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/rpcsal.h:
 
@@ -2348,6 +2566,14 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/incl
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int4_sized.hpp:
 
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/apisetcconv.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmivlintrin.h:
+
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.inl:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/enqcmdintrin.h:
@@ -2356,23 +2582,57 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/incl
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint2_sized.hpp:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/fibersapi.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/minwinbase.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/fibersapi.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/winioctl.h:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint3.hpp:
 
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint4.hpp:
-
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint4_sized.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sys/types.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/fwd.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_xmitfile.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/geometric.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/glm.hpp:
 
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/dlgs.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/errhandlingapi.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/constants.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wctype.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc:
+
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.inl:
 
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.hpp:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.inl:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/wmmintrin.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/vec1.hpp:
+
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/integer.hpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat2x4.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/mat3x4.hpp:
 
@@ -2390,55 +2650,143 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/incl
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/vec2.hpp:
 
+D:/School/3DProgramming/HollowEngine/HollowEngine/Core/BasicPlane.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/rpcnsip.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Camera.cpp:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/specstrings.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/concurrencysal.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/reason.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/cetintrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/winnt.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/dpapi.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/guiddef.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/basetsd.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/fltwinerror.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/prfchiintrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/clzerointrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxcomplexintrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/unknwn.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pkuintrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitintrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/virtdisk.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vpopcntdqintrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/msxml.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/_timeval.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/ctype.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/locale.h:
+
+D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmi2intrin.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/signal.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/profileapi.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdio.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/wchar.h:
+
 D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Shaders.cpp:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/bmiintrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx5124fmapsintrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fxsrintrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/mciapi.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/string.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/KHR/khrplatform.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1_precision.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1_precision.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1_sized.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1_precision.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1.hpp:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512fp16intrin.h:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/driverspecs.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1_sized.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.hpp:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.inl:
-
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/wmmintrin.h:
-
-D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/vec1.hpp:
 
 D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Shaders.h:
 
@@ -2524,9 +2872,9 @@ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-ming
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/propidl.h:
 
-C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/serializeintrin.h:
-
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/mcx.h:
+
+C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/serializeintrin.h:
 
 C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/smmintrin.h:
 

@@ -147,9 +147,6 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/GLFW/glfw3.h \
- D:\School\3DProgramming\HollowEngine\HollowEngine\Core/Setup.h \
- D:\School\3DProgramming\HollowEngine\HollowEngine\Core/render.h \
- D:\School\3DProgramming\HollowEngine\HollowEngine\Core/Camera.h \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/glm.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/_fixes.hpp \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
@@ -320,6 +317,7 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_transform.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/matrix_transform.inl \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/matrix_transform.inl \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_relational.inl \
@@ -343,4 +341,36 @@ CMakeFiles/HollowEngine.dir/main.cpp.obj: \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.inl \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/setup.hpp \
- D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.inl
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.inl \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/vec1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1_precision.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1_precision.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1_precision.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1_sized.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1_sized.hpp \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/string.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.inl \
+ D:\School\3DProgramming\HollowEngine\HollowEngine\Core/Setup.h \
+ D:\School\3DProgramming\HollowEngine\HollowEngine\Core/render.h \
+ D:\School\3DProgramming\HollowEngine\HollowEngine\Core/Camera.h \
+ D:\School\3DProgramming\HollowEngine\HollowEngine\Core/BasicPlane.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+ D:\School\3DProgramming\HollowEngine\HollowEngine\Core/Shaders.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc

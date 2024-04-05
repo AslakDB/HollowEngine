@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/School/3DProgramming/HollowEngine/HollowEngine/glad.c" "CMakeFiles/HollowEngine.dir/glad.c.obj" "gcc" "CMakeFiles/HollowEngine.dir/glad.c.obj.d"
   "D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Actor.cpp" "CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj" "gcc" "CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj.d"
+  "D:/School/3DProgramming/HollowEngine/HollowEngine/Core/BasicPlane.cpp" "CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj" "gcc" "CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj.d"
   "D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Camera.cpp" "CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj" "gcc" "CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj.d"
   "D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Shaders.cpp" "CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj" "gcc" "CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj.d"
   "D:/School/3DProgramming/HollowEngine/HollowEngine/Scene/Window.cpp" "CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj" "gcc" "CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj.d"

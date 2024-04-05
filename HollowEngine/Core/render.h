@@ -5,18 +5,19 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include "Camera.h"
+#include "BasicPlane.h"
 
 #ifndef RENDER_H
 #define RENDER_H
 
 Camera camera;
-float deltaTime = 0.0f;	// Time between current frame and last frame
-float lastFrame = 0.0f;
+BasicPlane Plane;
 
-void ProsessInput(GLFWwindow *window);
+
+void ProsessInput(GLFWwindow *window, float deltaTime);
 struct Render {
 
-    void render(GLFWwindow* window) {
+    void render(GLFWwindow* window, unsigned int shaderProgram, float deltaTime, float lastFrame) {
 
         while (!glfwWindowShouldClose(window))
             {
@@ -24,12 +25,15 @@ struct Render {
             deltaTime = currentFrame - lastFrame;
             lastFrame = currentFrame;
 
-            ProsessInput(window);
 
-            camera.tick();
 
+            camera.tick(shaderProgram);
+
+            ProsessInput(window, deltaTime);
             glClearColor(0.74f, 0.07f, 0.99f, 1.0f);
             glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+
+            Plane.DrawPlane(shaderProgram);
 
             glfwSwapBuffers(window);
             glfwPollEvents();
@@ -38,11 +42,11 @@ struct Render {
 };
 
 
-void ProsessInput(GLFWwindow *window) {
+void ProsessInput(GLFWwindow *window, float deltaTime) {
     if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
         glfwSetWindowShouldClose(window, true);
 
-    float cameraSpeed = 2.5f * deltaTime;
+    float cameraSpeed = 2.5f * deltaTime ;
     if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS)
         camera.cameraPos += cameraSpeed * camera.cameraFront;
     if (glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS)

@@ -6,6 +6,7 @@
 #define CAMERA_H
 #include <iostream>
 
+#include <glad/glad.h>
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/quaternion.hpp>
@@ -18,12 +19,13 @@ public:
     glm::vec3 cameraFront = glm::vec3(0.0f, 0.0f, -1.0f);
     glm::vec3 cameraUp    = glm::vec3(0.0f, 1.0f,  0.0f);
 
+
     glm::vec3 direction;
 
     float yaw = -90.0f;
     float pitch = 0.f;
     float roll = 0.f;
-    void tick();
+    void tick(unsigned int shaderProgram);
 };
 
 

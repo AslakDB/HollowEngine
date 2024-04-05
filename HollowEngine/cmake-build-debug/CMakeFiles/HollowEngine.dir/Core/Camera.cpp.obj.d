@@ -143,6 +143,10 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glad/glad.h \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/KHR/khrplatform.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/glm.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/_fixes.hpp \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
@@ -166,8 +170,6 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/assert.h \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/simd/platform.h \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
- C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
- C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cfloat \
  C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
@@ -338,4 +340,20 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/quaternion.inl \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.hpp \
  D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/detail/setup.hpp \
- D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.inl
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/epsilon.inl \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/vec1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_bool1_precision.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_float1_precision.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_double1_precision.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_int1_sized.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1.hpp \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/ext/vector_uint1_sized.hpp \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/string.h \
+ C:/Users/Aslak/AppData/Local/Programs/CLion\ 2/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/includes/glm/gtc/type_ptr.inl
