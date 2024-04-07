@@ -12,15 +12,18 @@ void BasicPlane::CreateMeshPlane() {
 
     std::vector<float> planeVertices = {
         // positions          // RGB
-        0.5f,  0.5f,  0.0f,  1.0f, 0.0f, 0.f,// top right
-       0.5f, -0.5f,  0.0f,  1.0f, 0.0f,0.f,// bottom right
-       -0.5f, -0.5f,  0.0f,  1.0f, 0.0f,0.f,// bottom left
-       -0.5f,  0.5f,  0.0f,  1.0f, 0.0f, 0.f
+         1.f, 0.0f,  1.f,  1.0f, 0.0f, 0.6f,// top right
+         1.f, 0.0f, -1.f,  1.0f, 0.0f, 0.6f,// bottom right
+        -1.f, 0.0f, -1.f,  1.0f, 0.0f, 0.6f,// bottom left
+        -1.f, 0.0f,  1.f,  1.0f, 0.0f, 0.6f
+
     };
     unsigned int indices[] = {
         0, 1, 3, // first triangle
         1, 2, 3  // second triangle
     };
+
+
 
     glGenVertexArrays(1, &VAO);
     glGenBuffers(1, &VBO);
@@ -43,6 +46,8 @@ glBufferData(GL_ARRAY_BUFFER, planeVertices.size() * sizeof(float), planeVertice
     // texture coord attribute
     glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 6 * sizeof(float), (void*)(3 * sizeof(float)));
     glEnableVertexAttribArray(1);
+
+    glBindBuffer(GL_ARRAY_BUFFER, 0);     glBindVertexArray(0);
 }
 
 void BasicPlane::DrawPlane(unsigned int shaderProgram) {

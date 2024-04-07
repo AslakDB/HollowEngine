@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj.d"
   "CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj"
   "CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj.d"
+  "CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj"
+  "CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj.d"
   "CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj"
   "CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj.d"
   "CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj"

@@ -21,6 +21,8 @@ set(HEADER_FILES
         Core/render.h
         Core/BasicPlane.h
         Core/DrawObjects.h
+        Core/Box.h
+        Core/Vertex.h
 )
 
 set(SRC_FILES
@@ -31,6 +33,8 @@ set(SRC_FILES
         Scene/Window.cpp
         Core/Shaders.cpp
         Core/BasicPlane.cpp
+        Core/Box.cpp
+
 
 )
 

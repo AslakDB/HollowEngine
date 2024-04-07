@@ -1916,6 +1916,12 @@
 		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/BasicPlane.h">
 			<Option target="HollowEngine"/>
 		</Unit>
+		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Box.cpp">
+			<Option target="HollowEngine"/>
+		</Unit>
+		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Box.h">
+			<Option target="HollowEngine"/>
+		</Unit>
 		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Camera.cpp">
 			<Option target="HollowEngine"/>
 		</Unit>
@@ -1932,6 +1938,9 @@
 			<Option target="HollowEngine"/>
 		</Unit>
 		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Shaders.h">
+			<Option target="HollowEngine"/>
+		</Unit>
+		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Vertex.h">
 			<Option target="HollowEngine"/>
 		</Unit>
 		<Unit filename="D:/School/3DProgramming/HollowEngine/HollowEngine/Core/render.h">
