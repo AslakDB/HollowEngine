@@ -20,9 +20,7 @@ public:
 
 
     void move();
-    unsigned int VBO, VAO, EBO;
-    std::vector<float> Vertices;
-    glm::mat4 model = glm::mat4(1.0f);
+
 
 
 };

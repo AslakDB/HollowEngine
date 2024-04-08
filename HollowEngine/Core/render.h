@@ -51,7 +51,7 @@ struct Render {
 
         ThePlane.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(0.0f, -1.0f, 0.0f));
         Box.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.f,10.0f,0.f));
-        Box2.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.f,0.0f,0.f));
+        Box2.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(8.f,0.0f,0.f));
         while (!glfwWindowShouldClose(window))
             {
             float currentFrame = glfwGetTime();
