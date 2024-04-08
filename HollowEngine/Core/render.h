@@ -8,11 +8,12 @@
 #include "BasicPlane.h"
 #include "Box.h"
 #include "Model.h"
+#include "Actor.h"
 
 #ifndef RENDER_H
 #define RENDER_H
 Camera camera;
-
+Actor actor;
 
 bool firstMouse = true;
 
@@ -21,20 +22,25 @@ float lastX = 960, lastY = 540;
 void mouse_callback(GLFWwindow* window, double xpos, double ypos);
 
 void ProsessInput(GLFWwindow *window, float deltaTime);
-struct Render {
 
+
+struct Render {
+bool inside ;
 
     std::vector<model*> models;
     //BasicPlane Plane;
     model Box;
     model Box2;
     model ThePlane;
+    model PlayerBox;
 
     void render(GLFWwindow* window, unsigned int shaderProgram, float deltaTime, float lastFrame) {
+
 
         models.emplace_back(&Box);
         models.emplace_back(&Box2);
         models.emplace_back(&ThePlane);
+        models.emplace_back(&PlayerBox);
 
         glm::mat4 trans = glm::mat4(1.0f);
         glm::mat4 projection;
@@ -49,11 +55,25 @@ struct Render {
         CreateMeshBox(Box2);
         Box2.Bind();
 
+        CreateMeshBox(PlayerBox);
+        PlayerBox.Bind();
+
         ThePlane.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(0.0f, -1.0f, 0.0f));
         Box.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.f,10.0f,0.f));
         Box2.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(8.f,0.0f,0.f));
+        PlayerBox.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(5.f, 2.5f, 5.f));
+        PlayerBox.modelMatrix = glm::scale(PlayerBox.modelMatrix, glm::vec3(0.5f, 1.f, 0.5f));
+
         while (!glfwWindowShouldClose(window))
             {
+                for (auto element: ThePlane.indices) {
+                    actor.calculateBarycentric( inside , ThePlane.vertices[element.A].XYZ, ThePlane.vertices[element.B].XYZ, ThePlane.vertices[element.C].XYZ,
+                        PlayerBox.modelMatrix[3]);
+                    if (inside) {
+                        PlayerBox.modelMatrix[3].y = actor.calculateBarycentric(inside, ThePlane.vertices[element.A].XYZ, ThePlane.vertices[element.B].XYZ, ThePlane.vertices[element.C].XYZ,
+                            PlayerBox.modelMatrix[3]);
+                    }
+                }
             float currentFrame = glfwGetTime();
             deltaTime = currentFrame - lastFrame;
             lastFrame = currentFrame;
@@ -62,6 +82,7 @@ struct Render {
             projection = glm::perspective(glm::radians(45.0f), 800.0f / 600.0f, 0.1f, 100.0f);
 
             camera.tick(shaderProgram);
+
 
 
             glClearColor(0.5f, 0.99f, 0.5f, 1.0f);

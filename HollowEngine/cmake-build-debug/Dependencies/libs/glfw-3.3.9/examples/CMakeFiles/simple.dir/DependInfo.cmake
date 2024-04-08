@@ -17,7 +17,6 @@ set(CMAKE_RC_TARGET_INCLUDE_PATH
   "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs"
   "D:/School/3DProgramming/HollowEngine/HollowEngine/HollowEngine/glad.c"
   "D:/School/3DProgramming/HollowEngine/HollowEngine/core"
-  "D:/School/3DProgramming/HollowEngine/HollowEngine/Shaders"
   "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps"
   "D:/School/3DProgramming/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include"
   )

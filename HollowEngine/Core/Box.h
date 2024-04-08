@@ -89,6 +89,8 @@ void CreateMeshPlane(model& planeModel, float xlenght, float zlenght) {
     }
 }
 
-
+float HeightCheck(glm::vec3 objectPos) {
+    int PlanePosX;
+}
 
 #endif //BOX_H
