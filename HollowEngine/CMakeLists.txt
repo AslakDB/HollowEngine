@@ -7,7 +7,7 @@ include_directories(Dependencies/includes)
 include_directories(Dependencies/libs)
 include_directories(HollowEngine/glad.c)
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/core)
-include_directories(${CMAKE_CURRENT_SOURCE_DIR}/Shaders)
+
 
 
 
@@ -23,6 +23,7 @@ set(HEADER_FILES
         Core/DrawObjects.h
         Core/Box.h
         Core/Vertex.h
+        Core/Model.h
 )
 
 set(SRC_FILES

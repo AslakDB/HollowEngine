@@ -1,3 +1,0 @@
-"C:\Users\Aslak\AppData\Local\Programs\CLion 2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\HollowEngine.dir/objects.a
-C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\ar.exe qc CMakeFiles\HollowEngine.dir/objects.a @CMakeFiles\HollowEngine.dir\objects1.rsp
-C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\HollowEngine.dir/objects.a -Wl,--no-whole-archive -o HollowEngine.exe -Wl,--out-implib,libHollowEngine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HollowEngine.dir\linkLibs.rsp

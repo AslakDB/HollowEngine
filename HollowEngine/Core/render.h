@@ -7,13 +7,12 @@
 #include "Camera.h"
 #include "BasicPlane.h"
 #include "Box.h"
+#include "Model.h"
 
 #ifndef RENDER_H
 #define RENDER_H
-
 Camera camera;
-BasicPlane Plane;
-Box Box;
+
 
 bool firstMouse = true;
 
@@ -24,12 +23,35 @@ void mouse_callback(GLFWwindow* window, double xpos, double ypos);
 void ProsessInput(GLFWwindow *window, float deltaTime);
 struct Render {
 
+
+    std::vector<model*> models;
+    //BasicPlane Plane;
+    model Box;
+    model Box2;
+    model ThePlane;
+
     void render(GLFWwindow* window, unsigned int shaderProgram, float deltaTime, float lastFrame) {
+
+        models.emplace_back(&Box);
+        models.emplace_back(&Box2);
+        models.emplace_back(&ThePlane);
+
         glm::mat4 trans = glm::mat4(1.0f);
         glm::mat4 projection;
 
-        Plane.model = glm::scale(Plane.model, glm::vec3(5.0f, 1.0f, 5.0f));
-        Plane.model = glm::translate(Plane.model, glm::vec3(0.0f, -1.0f, 0.0f));
+        CreateMeshBox(Box);
+        Box.Bind();
+
+
+        CreateMeshPlane(ThePlane, 20, 20);
+        ThePlane.Bind();
+
+        CreateMeshBox(Box2);
+        Box2.Bind();
+
+        ThePlane.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(0.0f, -1.0f, 0.0f));
+        Box.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.f,10.0f,0.f));
+        Box2.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.f,0.0f,0.f));
         while (!glfwWindowShouldClose(window))
             {
             float currentFrame = glfwGetTime();
@@ -45,8 +67,16 @@ struct Render {
             glClearColor(0.5f, 0.99f, 0.5f, 1.0f);
             glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-            Plane.DrawPlane(shaderProgram);
-            Box.DrawBox(shaderProgram);
+            int viewLoc = glGetUniformLocation(shaderProgram, "viewPos");
+            glUniform3fv(viewLoc, 1, glm::value_ptr(camera.cameraPos));
+
+            int LightLoc = glGetUniformLocation(shaderProgram, "lightPos");
+            glUniform3fv(LightLoc, 1, glm::value_ptr(glm::vec3(5,20,0)));
+
+            for (model* element: models) {
+                element->DrawMesh(shaderProgram);
+            }
+
             glfwSwapBuffers(window);
             glfwPollEvents();
             }

@@ -26,20 +26,16 @@ float lastFrame = 0.0f;
 
 int main() {
 
-
     GLFWwindow* window;
 
     set_up.setup("Window", window, SCR_WIDTH,SCR_HEIGHT);
     glfwSetCursorPosCallback(window, mouse_callback);
 
-
-
     unsigned int shadersProgram = shaders.GetProgram();
     glUseProgram(shadersProgram);
 
-    Plane.CreateMeshPlane();
 
-    Box.CreateMeshBox();
+
 
     render.render(window , shadersProgram, deltaTime, lastFrame);
 
