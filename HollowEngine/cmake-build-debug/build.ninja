@@ -77,13 +77,6 @@ build CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: CXX_COMPILER__HollowEngi
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
 
-build CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/Box.cpp || cmake_object_order_depends_target_HollowEngine
-  DEP_FILE = CMakeFiles\HollowEngine.dir\Core\Box.cpp.obj.d
-  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
-  OBJECT_DIR = CMakeFiles\HollowEngine.dir
-  OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target HollowEngine
@@ -92,7 +85,7 @@ build CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj: CXX_COMPILER__HollowEngine_u
 #############################################
 # Link the executable HollowEngine.exe
 
-build HollowEngine.exe: CXX_EXECUTABLE_LINKER__HollowEngine_Debug CMakeFiles/HollowEngine.dir/main.cpp.obj CMakeFiles/HollowEngine.dir/glad.c.obj CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj | Dependencies/libs/glfw-3.3.9/src/libglfw3.a || Dependencies/libs/glfw-3.3.9/src/libglfw3.a
+build HollowEngine.exe: CXX_EXECUTABLE_LINKER__HollowEngine_Debug CMakeFiles/HollowEngine.dir/main.cpp.obj CMakeFiles/HollowEngine.dir/glad.c.obj CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj | Dependencies/libs/glfw-3.3.9/src/libglfw3.a || Dependencies/libs/glfw-3.3.9/src/libglfw3.a
   FLAGS = -g
   LINK_LIBRARIES = Dependencies/libs/glfw-3.3.9/src/libglfw3.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\HollowEngine.dir

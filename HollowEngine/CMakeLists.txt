@@ -28,9 +28,6 @@ set(SRC_FILES
         glad.c
         Core/Camera.cpp
         Core/Shaders.cpp
-        Core/Box.cpp
-
-
 )
 
 add_subdirectory(Dependencies/libs/glfw-3.3.9)

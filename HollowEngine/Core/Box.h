@@ -92,7 +92,6 @@ void CreateMeshPlane(model& planeModel, float xlenght, float zlenght) {
 }
 float f(float x)
 {
-std::cout<<"hellp"<<std::endl;
     return 0.0777778*x*x*x -0.361111*x*x - 0.494445*x + 2.77778;
 }
 

@@ -25,9 +25,7 @@ void ProsessInput(GLFWwindow *window, float deltaTime, model& Player);
 struct Render {
 bool inside ;
 
-
     model NpcGraph;
-
 
     std::vector<model*> models;
 model Box2;

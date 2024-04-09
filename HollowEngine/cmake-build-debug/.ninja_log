@@ -1,7 +1,7 @@
 # ninja log v5
 12	986	7343940378137591	CMakeFiles/HollowEngine.dir/main.cpp.obj	dc1d9f915bad5ad3
-26	177	7343941942155885	HollowEngine.exe	89307eaf7706f343
-6	401	7343942396325124	build.ninja	486a36c162d95fab
+26	177	7343942399275196	HollowEngine.exe	db119e2007869804
+6	411	7343944200582249	build.ninja	486a36c162d95fab
 70	2195	7343631889696995	Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/init.c.obj	85bbc3ceaab25120
 50	1930	7343631887037739	CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj	83820ca72e255c87
 31	2316	7343631890966972	CMakeFiles/HollowEngine.dir/glad.c.obj	8a9ff22a20595301
@@ -25,5 +25,9 @@
 54	1196	7343638051781289	Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	373d291d48cd9199
 50	1287	7343638052709955	Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/egl_context.c.obj	974cec092344afde
 38	1351	7343638053345469	Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_window.c.obj	7cec755ba7bd7445
-6	412	7343942396325124	build.ninja	486a36c162d95fab
-26	177	7343942399275196	HollowEngine.exe	db119e2007869804
+5	400	7343944200582249	build.ninja	486a36c162d95fab
+29	179	7343944203416148	HollowEngine.exe	4fb28202d986b417
+15	956	7343944506409964	CMakeFiles/HollowEngine.dir/main.cpp.obj	dc1d9f915bad5ad3
+957	1122	7343944508030694	HollowEngine.exe	4fb28202d986b417
+20	1882	7343948505701356	CMakeFiles/HollowEngine.dir/main.cpp.obj	dc1d9f915bad5ad3
+1883	2128	7343948508124475	HollowEngine.exe	4fb28202d986b417
