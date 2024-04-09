@@ -589,78 +589,6 @@ windows/fast:
 	$(MAKE) $(MAKESILENT) -f Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\build.make Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/build
 .PHONY : windows/fast
 
-Core/Actor.obj: Core/Actor.cpp.obj
-.PHONY : Core/Actor.obj
-
-# target to build an object file
-Core/Actor.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj
-.PHONY : Core/Actor.cpp.obj
-
-Core/Actor.i: Core/Actor.cpp.i
-.PHONY : Core/Actor.i
-
-# target to preprocess a source file
-Core/Actor.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/Actor.cpp.i
-.PHONY : Core/Actor.cpp.i
-
-Core/Actor.s: Core/Actor.cpp.s
-.PHONY : Core/Actor.s
-
-# target to generate assembly for a file
-Core/Actor.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/Actor.cpp.s
-.PHONY : Core/Actor.cpp.s
-
-Core/BasicPlane.obj: Core/BasicPlane.cpp.obj
-.PHONY : Core/BasicPlane.obj
-
-# target to build an object file
-Core/BasicPlane.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj
-.PHONY : Core/BasicPlane.cpp.obj
-
-Core/BasicPlane.i: Core/BasicPlane.cpp.i
-.PHONY : Core/BasicPlane.i
-
-# target to preprocess a source file
-Core/BasicPlane.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.i
-.PHONY : Core/BasicPlane.cpp.i
-
-Core/BasicPlane.s: Core/BasicPlane.cpp.s
-.PHONY : Core/BasicPlane.s
-
-# target to generate assembly for a file
-Core/BasicPlane.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.s
-.PHONY : Core/BasicPlane.cpp.s
-
-Core/Box.obj: Core/Box.cpp.obj
-.PHONY : Core/Box.obj
-
-# target to build an object file
-Core/Box.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj
-.PHONY : Core/Box.cpp.obj
-
-Core/Box.i: Core/Box.cpp.i
-.PHONY : Core/Box.i
-
-# target to preprocess a source file
-Core/Box.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/Box.cpp.i
-.PHONY : Core/Box.cpp.i
-
-Core/Box.s: Core/Box.cpp.s
-.PHONY : Core/Box.s
-
-# target to generate assembly for a file
-Core/Box.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/Box.cpp.s
-.PHONY : Core/Box.cpp.s
-
 Core/Camera.obj: Core/Camera.cpp.obj
 .PHONY : Core/Camera.obj
 
@@ -708,30 +636,6 @@ Core/Shaders.s: Core/Shaders.cpp.s
 Core/Shaders.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.s
 .PHONY : Core/Shaders.cpp.s
-
-Scene/Window.obj: Scene/Window.cpp.obj
-.PHONY : Scene/Window.obj
-
-# target to build an object file
-Scene/Window.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj
-.PHONY : Scene/Window.cpp.obj
-
-Scene/Window.i: Scene/Window.cpp.i
-.PHONY : Scene/Window.i
-
-# target to preprocess a source file
-Scene/Window.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Scene/Window.cpp.i
-.PHONY : Scene/Window.cpp.i
-
-Scene/Window.s: Scene/Window.cpp.s
-.PHONY : Scene/Window.s
-
-# target to generate assembly for a file
-Scene/Window.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\HollowEngine.dir\build.make CMakeFiles/HollowEngine.dir/Scene/Window.cpp.s
-.PHONY : Scene/Window.cpp.s
 
 glad.obj: glad.c.obj
 .PHONY : glad.obj
@@ -826,24 +730,12 @@ help:
 	@echo ... triangle-vulkan
 	@echo ... wave
 	@echo ... windows
-	@echo ... Core/Actor.obj
-	@echo ... Core/Actor.i
-	@echo ... Core/Actor.s
-	@echo ... Core/BasicPlane.obj
-	@echo ... Core/BasicPlane.i
-	@echo ... Core/BasicPlane.s
-	@echo ... Core/Box.obj
-	@echo ... Core/Box.i
-	@echo ... Core/Box.s
 	@echo ... Core/Camera.obj
 	@echo ... Core/Camera.i
 	@echo ... Core/Camera.s
 	@echo ... Core/Shaders.obj
 	@echo ... Core/Shaders.i
 	@echo ... Core/Shaders.s
-	@echo ... Scene/Window.obj
-	@echo ... Scene/Window.i
-	@echo ... Scene/Window.s
 	@echo ... glad.obj
 	@echo ... glad.i
 	@echo ... glad.s
