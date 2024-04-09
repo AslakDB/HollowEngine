@@ -86,7 +86,6 @@ void CreateMeshPlane(model& planeModel, float xlenght, float zlenght) {
         planeModel.vertices[index.A].Normals += glm::normalize(normal);
         planeModel.vertices[index.B].Normals += glm::normalize(normal);
         planeModel.vertices[index.C].Normals += glm::normalize(normal);
-
     }
 
     planeModel.Bind();

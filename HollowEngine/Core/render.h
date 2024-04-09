@@ -5,15 +5,13 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include "Camera.h"
-#include "BasicPlane.h"
 #include "Box.h"
 #include "Model.h"
-#include "Actor.h"
+
 
 #ifndef RENDER_H
 #define RENDER_H
 Camera camera;
-Actor actor;
 
 bool firstMouse = true;
 
@@ -106,7 +104,6 @@ model Box2;
 
             for (model* element: models) {
                 element->DrawMesh(shaderProgram);
-
             }
             glfwSwapBuffers(window);
             glfwPollEvents();

@@ -15,12 +15,9 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/core)
 set(HEADER_FILES
         Core/Camera.h 
         Core/Actor.h
-        Scene/Window.h
         Core/Shaders.h
         Core/Setup.h
         Core/render.h
-        Core/BasicPlane.h
-        Core/DrawObjects.h
         Core/Box.h
         Core/Vertex.h
         Core/Model.h
@@ -30,10 +27,7 @@ set(SRC_FILES
         main.cpp
         glad.c
         Core/Camera.cpp
-        Core/Actor.cpp
-        Scene/Window.cpp
         Core/Shaders.cpp
-        Core/BasicPlane.cpp
         Core/Box.cpp
 
 

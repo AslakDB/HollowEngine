@@ -14,20 +14,3 @@
 
 
 
-
-class Actor {
-private:
-
-public:
-
-    unsigned int VAO,VBO;
-
-
-
-
-
-};
-
-
-
-#endif //ACTOR_H

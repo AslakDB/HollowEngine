@@ -55,8 +55,6 @@ build CMakeFiles/HollowEngine.dir/main.cpp.obj: CXX_COMPILER__HollowEngine_unsca
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
-  TARGET_PDB = HollowEngine.pdb
 
 build CMakeFiles/HollowEngine.dir/glad.c.obj: C_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/glad.c || cmake_object_order_depends_target_HollowEngine
   DEP_FILE = CMakeFiles\HollowEngine.dir\glad.c.obj.d
@@ -64,8 +62,6 @@ build CMakeFiles/HollowEngine.dir/glad.c.obj: C_COMPILER__HollowEngine_unscanned
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
-  TARGET_PDB = HollowEngine.pdb
 
 build CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/Camera.cpp || cmake_object_order_depends_target_HollowEngine
   DEP_FILE = CMakeFiles\HollowEngine.dir\Core\Camera.cpp.obj.d
@@ -73,26 +69,6 @@ build CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: CXX_COMPILER__HollowEngin
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
-  TARGET_PDB = HollowEngine.pdb
-
-build CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/Actor.cpp || cmake_object_order_depends_target_HollowEngine
-  DEP_FILE = CMakeFiles\HollowEngine.dir\Core\Actor.cpp.obj.d
-  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
-  OBJECT_DIR = CMakeFiles\HollowEngine.dir
-  OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
-  TARGET_PDB = HollowEngine.pdb
-
-build CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Scene/Window.cpp || cmake_object_order_depends_target_HollowEngine
-  DEP_FILE = CMakeFiles\HollowEngine.dir\Scene\Window.cpp.obj.d
-  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
-  OBJECT_DIR = CMakeFiles\HollowEngine.dir
-  OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Scene
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
-  TARGET_PDB = HollowEngine.pdb
 
 build CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/Shaders.cpp || cmake_object_order_depends_target_HollowEngine
   DEP_FILE = CMakeFiles\HollowEngine.dir\Core\Shaders.cpp.obj.d
@@ -100,17 +76,6 @@ build CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: CXX_COMPILER__HollowEngi
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
-  TARGET_PDB = HollowEngine.pdb
-
-build CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/BasicPlane.cpp || cmake_object_order_depends_target_HollowEngine
-  DEP_FILE = CMakeFiles\HollowEngine.dir\Core\BasicPlane.cpp.obj.d
-  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
-  OBJECT_DIR = CMakeFiles\HollowEngine.dir
-  OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
-  TARGET_PDB = HollowEngine.pdb
 
 build CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/Box.cpp || cmake_object_order_depends_target_HollowEngine
   DEP_FILE = CMakeFiles\HollowEngine.dir\Core\Box.cpp.obj.d
@@ -118,8 +83,6 @@ build CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj: CXX_COMPILER__HollowEngine_u
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
-  TARGET_PDB = HollowEngine.pdb
 
 
 # =============================================================================
@@ -129,16 +92,15 @@ build CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj: CXX_COMPILER__HollowEngine_u
 #############################################
 # Link the executable HollowEngine.exe
 
-build HollowEngine.exe: CXX_EXECUTABLE_LINKER__HollowEngine_Debug CMakeFiles/HollowEngine.dir/main.cpp.obj CMakeFiles/HollowEngine.dir/glad.c.obj CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj CMakeFiles/HollowEngine.dir/Core/BasicPlane.cpp.obj CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj | Dependencies/libs/glfw-3.3.9/src/libglfw3.a || Dependencies/libs/glfw-3.3.9/src/libglfw3.a
+build HollowEngine.exe: CXX_EXECUTABLE_LINKER__HollowEngine_Debug CMakeFiles/HollowEngine.dir/main.cpp.obj CMakeFiles/HollowEngine.dir/glad.c.obj CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj CMakeFiles/HollowEngine.dir/Core/Box.cpp.obj | Dependencies/libs/glfw-3.3.9/src/libglfw3.a || Dependencies/libs/glfw-3.3.9/src/libglfw3.a
   FLAGS = -g
   LINK_LIBRARIES = Dependencies/libs/glfw-3.3.9/src/libglfw3.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\HollowEngine.dir\
   TARGET_FILE = HollowEngine.exe
   TARGET_IMPLIB = libHollowEngine.dll.a
-  TARGET_PDB = HollowEngine.pdb
+  TARGET_PDB = HollowEngine.exe.dbg
 
 
 #############################################
@@ -315,8 +277,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/context.c.obj: C_COMP
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/init.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -325,8 +285,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/init.c.obj: C_COMPILE
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/input.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/input.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -335,8 +293,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/input.c.obj: C_COMPIL
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/monitor.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -345,8 +301,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/monitor.c.obj: C_COMP
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/vulkan.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/vulkan.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -355,8 +309,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/vulkan.c.obj: C_COMPI
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/window.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -365,8 +317,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/window.c.obj: C_COMPI
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_init.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/win32_init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -375,8 +325,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_init.c.obj: C_C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_joystick.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/win32_joystick.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -385,8 +333,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_joystick.c.obj:
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_monitor.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/win32_monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -395,8 +341,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_monitor.c.obj: 
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_time.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/win32_time.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -405,8 +349,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_time.c.obj: C_C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_thread.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/win32_thread.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -415,8 +357,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_thread.c.obj: C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_window.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/win32_window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -425,8 +365,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_window.c.obj: C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/wgl_context.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/wgl_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -435,8 +373,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/wgl_context.c.obj: C_
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/egl_context.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/egl_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -445,8 +381,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/egl_context.c.obj: C_
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/osmesa_context.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/osmesa_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
@@ -455,8 +389,6 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/osmesa_context.c.obj:
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
 
 
 # =============================================================================
@@ -471,9 +403,8 @@ build Dependencies/libs/glfw-3.3.9/src/libglfw3.a: C_STATIC_LIBRARY_LINKER__glfw
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\glfw.pdb
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\src\libglfw3.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\src\libglfw3.pdb
+  TARGET_PDB = glfw3.a.dbg
 
 
 #############################################
@@ -568,16 +499,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/boing.dir/boing.c.obj: C_
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\boing.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/boing.dir/glfw.rc.obj: RC_COMPILER__boing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_boing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\boing.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/boing.dir/__/deps/glad_gl.c.obj: C_COMPILER__boing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_boing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\__\deps\glad_gl.c.obj.d
@@ -585,8 +512,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/boing.dir/__/deps/glad_gl
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\boing.pdb
 
 
 # =============================================================================
@@ -603,10 +528,9 @@ build Dependencies/libs/glfw-3.3.9/examples/boing.exe: C_EXECUTABLE_LINKER__boin
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\boing.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\libboing.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\boing.pdb
+  TARGET_PDB = boing.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target gears
@@ -623,16 +547,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/gears.dir/gears.c.obj: C_
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\gears.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/gears.dir/glfw.rc.obj: RC_COMPILER__gears_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_gears
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\gears.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/gears.dir/__/deps/glad_gl.c.obj: C_COMPILER__gears_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_gears
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\__\deps\glad_gl.c.obj.d
@@ -640,8 +560,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/gears.dir/__/deps/glad_gl
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\gears.pdb
 
 
 # =============================================================================
@@ -658,10 +576,9 @@ build Dependencies/libs/glfw-3.3.9/examples/gears.exe: C_EXECUTABLE_LINKER__gear
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\gears.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\libgears.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\gears.pdb
+  TARGET_PDB = gears.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target heightmap
@@ -678,16 +595,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/heightmap.dir/heightmap.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\heightmap.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/heightmap.dir/glfw.rc.obj: RC_COMPILER__heightmap_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_heightmap
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\heightmap.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/heightmap.dir/__/deps/glad_gl.c.obj: C_COMPILER__heightmap_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_heightmap
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\__\deps\glad_gl.c.obj.d
@@ -695,8 +608,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/heightmap.dir/__/deps/gla
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\heightmap.pdb
 
 
 # =============================================================================
@@ -713,10 +624,9 @@ build Dependencies/libs/glfw-3.3.9/examples/heightmap.exe: C_EXECUTABLE_LINKER__
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\heightmap.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\libheightmap.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\heightmap.pdb
+  TARGET_PDB = heightmap.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target offscreen
@@ -733,16 +643,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/offscreen.dir/offscreen.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\offscreen.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/offscreen.dir/glfw.rc.obj: RC_COMPILER__offscreen_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_offscreen
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\offscreen.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/offscreen.dir/__/deps/glad_gl.c.obj: C_COMPILER__offscreen_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_offscreen
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\__\deps\glad_gl.c.obj.d
@@ -750,8 +656,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/offscreen.dir/__/deps/gla
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\offscreen.pdb
 
 
 # =============================================================================
@@ -767,10 +671,9 @@ build Dependencies/libs/glfw-3.3.9/examples/offscreen.exe: C_EXECUTABLE_LINKER__
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\offscreen.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\liboffscreen.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\offscreen.pdb
+  TARGET_PDB = offscreen.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target particles
@@ -787,16 +690,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/particles.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\particles.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/glfw.rc.obj: RC_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\particles.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.obj: C_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/tinycthread.c || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps\tinycthread.c.obj.d
@@ -804,8 +703,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/tin
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\particles.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/getopt.c.obj: C_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps\getopt.c.obj.d
@@ -813,8 +710,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/get
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\particles.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/glad_gl.c.obj: C_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps\glad_gl.c.obj.d
@@ -822,8 +717,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/gla
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\particles.pdb
 
 
 # =============================================================================
@@ -840,10 +733,9 @@ build Dependencies/libs/glfw-3.3.9/examples/particles.exe: C_EXECUTABLE_LINKER__
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\particles.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\libparticles.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\particles.pdb
+  TARGET_PDB = particles.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target sharing
@@ -860,16 +752,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/sharing.dir/sharing.c.obj
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\sharing.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/sharing.dir/glfw.rc.obj: RC_COMPILER__sharing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_sharing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\sharing.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/sharing.dir/__/deps/glad_gl.c.obj: C_COMPILER__sharing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_sharing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\__\deps\glad_gl.c.obj.d
@@ -877,8 +765,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/sharing.dir/__/deps/glad_
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\sharing.pdb
 
 
 # =============================================================================
@@ -895,10 +781,9 @@ build Dependencies/libs/glfw-3.3.9/examples/sharing.exe: C_EXECUTABLE_LINKER__sh
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\sharing.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\libsharing.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\sharing.pdb
+  TARGET_PDB = sharing.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target simple
@@ -915,16 +800,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/simple.dir/simple.c.obj: 
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\simple.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/simple.dir/glfw.rc.obj: RC_COMPILER__simple_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_simple
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\simple.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/simple.dir/__/deps/glad_gl.c.obj: C_COMPILER__simple_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_simple
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\__\deps\glad_gl.c.obj.d
@@ -932,8 +813,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/simple.dir/__/deps/glad_g
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\simple.pdb
 
 
 # =============================================================================
@@ -950,10 +829,9 @@ build Dependencies/libs/glfw-3.3.9/examples/simple.exe: C_EXECUTABLE_LINKER__sim
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\simple.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\libsimple.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\simple.pdb
+  TARGET_PDB = simple.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target splitview
@@ -970,16 +848,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/splitview.dir/splitview.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\splitview.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/splitview.dir/glfw.rc.obj: RC_COMPILER__splitview_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_splitview
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\splitview.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/splitview.dir/__/deps/glad_gl.c.obj: C_COMPILER__splitview_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_splitview
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\__\deps\glad_gl.c.obj.d
@@ -987,8 +861,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/splitview.dir/__/deps/gla
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\splitview.pdb
 
 
 # =============================================================================
@@ -1005,10 +877,9 @@ build Dependencies/libs/glfw-3.3.9/examples/splitview.exe: C_EXECUTABLE_LINKER__
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\splitview.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\libsplitview.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\splitview.pdb
+  TARGET_PDB = splitview.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target wave
@@ -1025,16 +896,12 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/wave.dir/wave.c.obj: C_CO
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\wave.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/wave.dir/glfw.rc.obj: RC_COMPILER__wave_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_wave
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\glfw.rc.obj.d
   INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\wave.pdb
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/wave.dir/__/deps/glad_gl.c.obj: C_COMPILER__wave_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_wave
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\__\deps\glad_gl.c.obj.d
@@ -1042,8 +909,6 @@ build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/wave.dir/__/deps/glad_gl.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\wave.pdb
 
 
 # =============================================================================
@@ -1060,10 +925,9 @@ build Dependencies/libs/glfw-3.3.9/examples/wave.exe: C_EXECUTABLE_LINKER__wave_
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\examples\wave.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\examples\libwave.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\examples\wave.pdb
+  TARGET_PDB = wave.exe.dbg
 
 
 #############################################
@@ -1150,8 +1014,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/clipboard.dir/clipboard.c.ob
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\clipboard.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/clipboard.dir/__/deps/getopt.c.obj: C_COMPILER__clipboard_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_clipboard
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\__\deps\getopt.c.obj.d
@@ -1159,8 +1021,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/clipboard.dir/__/deps/getopt
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\clipboard.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/clipboard.dir/__/deps/glad_gl.c.obj: C_COMPILER__clipboard_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_clipboard
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\__\deps\glad_gl.c.obj.d
@@ -1168,8 +1028,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/clipboard.dir/__/deps/glad_g
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\clipboard.pdb
 
 
 # =============================================================================
@@ -1185,10 +1043,9 @@ build Dependencies/libs/glfw-3.3.9/tests/clipboard.exe: C_EXECUTABLE_LINKER__cli
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\clipboard.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libclipboard.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\clipboard.pdb
+  TARGET_PDB = clipboard.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target events
@@ -1205,8 +1062,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/events.dir/events.c.obj: C_C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\events.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/events.dir/__/deps/getopt.c.obj: C_COMPILER__events_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_events
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\__\deps\getopt.c.obj.d
@@ -1214,8 +1069,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/events.dir/__/deps/getopt.c.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\events.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/events.dir/__/deps/glad_gl.c.obj: C_COMPILER__events_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_events
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\__\deps\glad_gl.c.obj.d
@@ -1223,8 +1076,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/events.dir/__/deps/glad_gl.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\events.pdb
 
 
 # =============================================================================
@@ -1240,10 +1091,9 @@ build Dependencies/libs/glfw-3.3.9/tests/events.exe: C_EXECUTABLE_LINKER__events
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\events.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libevents.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\events.pdb
+  TARGET_PDB = events.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target msaa
@@ -1260,8 +1110,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/msaa.dir/msaa.c.obj: C_COMPI
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\msaa.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/msaa.dir/__/deps/getopt.c.obj: C_COMPILER__msaa_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_msaa
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\__\deps\getopt.c.obj.d
@@ -1269,8 +1117,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/msaa.dir/__/deps/getopt.c.ob
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\msaa.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/msaa.dir/__/deps/glad_gl.c.obj: C_COMPILER__msaa_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_msaa
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\__\deps\glad_gl.c.obj.d
@@ -1278,8 +1124,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/msaa.dir/__/deps/glad_gl.c.o
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\msaa.pdb
 
 
 # =============================================================================
@@ -1295,10 +1139,9 @@ build Dependencies/libs/glfw-3.3.9/tests/msaa.exe: C_EXECUTABLE_LINKER__msaa_Deb
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\msaa.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libmsaa.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\msaa.pdb
+  TARGET_PDB = msaa.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target glfwinfo
@@ -1315,8 +1158,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/glfwinfo.c.obj:
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\glfwinfo.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/getopt.c.obj: C_COMPILER__glfwinfo_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_glfwinfo
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps\getopt.c.obj.d
@@ -1324,8 +1165,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/getopt.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\glfwinfo.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_gl.c.obj: C_COMPILER__glfwinfo_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_glfwinfo
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps\glad_gl.c.obj.d
@@ -1333,8 +1172,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_gl
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\glfwinfo.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_vulkan.c.obj: C_COMPILER__glfwinfo_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_vulkan.c || cmake_object_order_depends_target_glfwinfo
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps\glad_vulkan.c.obj.d
@@ -1342,8 +1179,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_vu
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\glfwinfo.pdb
 
 
 # =============================================================================
@@ -1359,10 +1194,9 @@ build Dependencies/libs/glfw-3.3.9/tests/glfwinfo.exe: C_EXECUTABLE_LINKER__glfw
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\glfwinfo.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libglfwinfo.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\glfwinfo.pdb
+  TARGET_PDB = glfwinfo.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target iconify
@@ -1379,8 +1213,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/iconify.dir/iconify.c.obj: C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\iconify.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/iconify.dir/__/deps/getopt.c.obj: C_COMPILER__iconify_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_iconify
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\__\deps\getopt.c.obj.d
@@ -1388,8 +1220,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/iconify.dir/__/deps/getopt.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\iconify.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/iconify.dir/__/deps/glad_gl.c.obj: C_COMPILER__iconify_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_iconify
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\__\deps\glad_gl.c.obj.d
@@ -1397,8 +1227,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/iconify.dir/__/deps/glad_gl.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\iconify.pdb
 
 
 # =============================================================================
@@ -1414,10 +1242,9 @@ build Dependencies/libs/glfw-3.3.9/tests/iconify.exe: C_EXECUTABLE_LINKER__iconi
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\iconify.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libiconify.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\iconify.pdb
+  TARGET_PDB = iconify.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target monitors
@@ -1434,8 +1261,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/monitors.dir/monitors.c.obj:
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\monitors.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/monitors.dir/__/deps/getopt.c.obj: C_COMPILER__monitors_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_monitors
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\__\deps\getopt.c.obj.d
@@ -1443,8 +1268,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/monitors.dir/__/deps/getopt.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\monitors.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/monitors.dir/__/deps/glad_gl.c.obj: C_COMPILER__monitors_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_monitors
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\__\deps\glad_gl.c.obj.d
@@ -1452,8 +1275,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/monitors.dir/__/deps/glad_gl
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\monitors.pdb
 
 
 # =============================================================================
@@ -1469,10 +1290,9 @@ build Dependencies/libs/glfw-3.3.9/tests/monitors.exe: C_EXECUTABLE_LINKER__moni
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\monitors.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libmonitors.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\monitors.pdb
+  TARGET_PDB = monitors.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target reopen
@@ -1489,8 +1309,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/reopen.dir/reopen.c.obj: C_C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\reopen.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/reopen.dir/__/deps/glad_gl.c.obj: C_COMPILER__reopen_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_reopen
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir\__\deps\glad_gl.c.obj.d
@@ -1498,8 +1316,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/reopen.dir/__/deps/glad_gl.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\reopen.pdb
 
 
 # =============================================================================
@@ -1515,10 +1331,9 @@ build Dependencies/libs/glfw-3.3.9/tests/reopen.exe: C_EXECUTABLE_LINKER__reopen
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\reopen.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libreopen.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\reopen.pdb
+  TARGET_PDB = reopen.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target cursor
@@ -1535,8 +1350,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/cursor.dir/cursor.c.obj: C_C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\cursor.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/cursor.dir/__/deps/glad_gl.c.obj: C_COMPILER__cursor_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_cursor
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir\__\deps\glad_gl.c.obj.d
@@ -1544,8 +1357,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/cursor.dir/__/deps/glad_gl.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\cursor.pdb
 
 
 # =============================================================================
@@ -1561,10 +1372,9 @@ build Dependencies/libs/glfw-3.3.9/tests/cursor.exe: C_EXECUTABLE_LINKER__cursor
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\cursor.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libcursor.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\cursor.pdb
+  TARGET_PDB = cursor.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target empty
@@ -1581,8 +1391,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/empty.dir/empty.c.obj: C_COM
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\empty.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/empty.dir/__/deps/tinycthread.c.obj: C_COMPILER__empty_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/tinycthread.c || cmake_object_order_depends_target_empty
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\__\deps\tinycthread.c.obj.d
@@ -1590,8 +1398,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/empty.dir/__/deps/tinycthrea
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\empty.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/empty.dir/__/deps/glad_gl.c.obj: C_COMPILER__empty_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_empty
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\__\deps\glad_gl.c.obj.d
@@ -1599,8 +1405,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/empty.dir/__/deps/glad_gl.c.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\empty.pdb
 
 
 # =============================================================================
@@ -1617,10 +1421,9 @@ build Dependencies/libs/glfw-3.3.9/tests/empty.exe: C_EXECUTABLE_LINKER__empty_D
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\empty.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libempty.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\empty.pdb
+  TARGET_PDB = empty.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target gamma
@@ -1637,8 +1440,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/gamma.dir/gamma.c.obj: C_COM
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\gamma.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/gamma.dir/__/deps/glad_gl.c.obj: C_COMPILER__gamma_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_gamma
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir\__\deps\glad_gl.c.obj.d
@@ -1646,8 +1447,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/gamma.dir/__/deps/glad_gl.c.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\gamma.pdb
 
 
 # =============================================================================
@@ -1664,10 +1463,9 @@ build Dependencies/libs/glfw-3.3.9/tests/gamma.exe: C_EXECUTABLE_LINKER__gamma_D
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\gamma.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libgamma.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\gamma.pdb
+  TARGET_PDB = gamma.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target icon
@@ -1684,8 +1482,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/icon.dir/icon.c.obj: C_COMPI
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\icon.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/icon.dir/__/deps/glad_gl.c.obj: C_COMPILER__icon_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_icon
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir\__\deps\glad_gl.c.obj.d
@@ -1693,8 +1489,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/icon.dir/__/deps/glad_gl.c.o
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\icon.pdb
 
 
 # =============================================================================
@@ -1711,10 +1505,9 @@ build Dependencies/libs/glfw-3.3.9/tests/icon.exe: C_EXECUTABLE_LINKER__icon_Deb
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\icon.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libicon.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\icon.pdb
+  TARGET_PDB = icon.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target inputlag
@@ -1731,8 +1524,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/inputlag.dir/inputlag.c.obj:
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\inputlag.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/inputlag.dir/__/deps/getopt.c.obj: C_COMPILER__inputlag_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_inputlag
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\__\deps\getopt.c.obj.d
@@ -1740,8 +1531,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/inputlag.dir/__/deps/getopt.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\inputlag.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/inputlag.dir/__/deps/glad_gl.c.obj: C_COMPILER__inputlag_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_inputlag
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\__\deps\glad_gl.c.obj.d
@@ -1749,8 +1538,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/inputlag.dir/__/deps/glad_gl
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\inputlag.pdb
 
 
 # =============================================================================
@@ -1767,10 +1554,9 @@ build Dependencies/libs/glfw-3.3.9/tests/inputlag.exe: C_EXECUTABLE_LINKER__inpu
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\inputlag.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libinputlag.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\inputlag.pdb
+  TARGET_PDB = inputlag.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target joysticks
@@ -1787,8 +1573,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/joysticks.dir/joysticks.c.ob
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\joysticks.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/joysticks.dir/__/deps/glad_gl.c.obj: C_COMPILER__joysticks_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_joysticks
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir\__\deps\glad_gl.c.obj.d
@@ -1796,8 +1580,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/joysticks.dir/__/deps/glad_g
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\joysticks.pdb
 
 
 # =============================================================================
@@ -1814,10 +1596,9 @@ build Dependencies/libs/glfw-3.3.9/tests/joysticks.exe: C_EXECUTABLE_LINKER__joy
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\joysticks.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libjoysticks.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\joysticks.pdb
+  TARGET_PDB = joysticks.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target opacity
@@ -1834,8 +1615,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/opacity.dir/opacity.c.obj: C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\opacity.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/opacity.dir/__/deps/glad_gl.c.obj: C_COMPILER__opacity_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_opacity
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir\__\deps\glad_gl.c.obj.d
@@ -1843,8 +1622,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/opacity.dir/__/deps/glad_gl.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\opacity.pdb
 
 
 # =============================================================================
@@ -1861,10 +1638,9 @@ build Dependencies/libs/glfw-3.3.9/tests/opacity.exe: C_EXECUTABLE_LINKER__opaci
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\opacity.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libopacity.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\opacity.pdb
+  TARGET_PDB = opacity.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target tearing
@@ -1881,8 +1657,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/tearing.dir/tearing.c.obj: C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\tearing.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/tearing.dir/__/deps/glad_gl.c.obj: C_COMPILER__tearing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_tearing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir\__\deps\glad_gl.c.obj.d
@@ -1890,8 +1664,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/tearing.dir/__/deps/glad_gl.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\tearing.pdb
 
 
 # =============================================================================
@@ -1908,10 +1680,9 @@ build Dependencies/libs/glfw-3.3.9/tests/tearing.exe: C_EXECUTABLE_LINKER__teari
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\tearing.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libtearing.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\tearing.pdb
+  TARGET_PDB = tearing.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target threads
@@ -1928,8 +1699,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/threads.dir/threads.c.obj: C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\threads.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/threads.dir/__/deps/tinycthread.c.obj: C_COMPILER__threads_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/tinycthread.c || cmake_object_order_depends_target_threads
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\__\deps\tinycthread.c.obj.d
@@ -1937,8 +1706,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/threads.dir/__/deps/tinycthr
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\threads.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/threads.dir/__/deps/glad_gl.c.obj: C_COMPILER__threads_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_threads
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\__\deps\glad_gl.c.obj.d
@@ -1946,8 +1713,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/threads.dir/__/deps/glad_gl.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\threads.pdb
 
 
 # =============================================================================
@@ -1964,10 +1729,9 @@ build Dependencies/libs/glfw-3.3.9/tests/threads.exe: C_EXECUTABLE_LINKER__threa
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\threads.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libthreads.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\threads.pdb
+  TARGET_PDB = threads.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target timeout
@@ -1984,8 +1748,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/timeout.dir/timeout.c.obj: C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\timeout.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/timeout.dir/__/deps/glad_gl.c.obj: C_COMPILER__timeout_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_timeout
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir\__\deps\glad_gl.c.obj.d
@@ -1993,8 +1755,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/timeout.dir/__/deps/glad_gl.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\timeout.pdb
 
 
 # =============================================================================
@@ -2011,10 +1771,9 @@ build Dependencies/libs/glfw-3.3.9/tests/timeout.exe: C_EXECUTABLE_LINKER__timeo
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\timeout.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libtimeout.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\timeout.pdb
+  TARGET_PDB = timeout.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target title
@@ -2031,8 +1790,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/title.dir/title.c.obj: C_COM
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\title.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/title.dir/__/deps/glad_gl.c.obj: C_COMPILER__title_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_title
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir\__\deps\glad_gl.c.obj.d
@@ -2040,8 +1797,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/title.dir/__/deps/glad_gl.c.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\title.pdb
 
 
 # =============================================================================
@@ -2058,10 +1813,9 @@ build Dependencies/libs/glfw-3.3.9/tests/title.exe: C_EXECUTABLE_LINKER__title_D
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\title.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libtitle.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\title.pdb
+  TARGET_PDB = title.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target triangle-vulkan
@@ -2078,8 +1832,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/triangle-vulkan.dir/triangle
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\triangle-vulkan.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/triangle-vulkan.dir/__/deps/glad_vulkan.c.obj: C_COMPILER__triangle-vulkan_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_vulkan.c || cmake_object_order_depends_target_triangle-vulkan
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir\__\deps\glad_vulkan.c.obj.d
@@ -2087,8 +1839,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/triangle-vulkan.dir/__/deps/
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\triangle-vulkan.pdb
 
 
 # =============================================================================
@@ -2105,10 +1855,9 @@ build Dependencies/libs/glfw-3.3.9/tests/triangle-vulkan.exe: C_EXECUTABLE_LINKE
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\triangle-vulkan.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libtriangle-vulkan.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\triangle-vulkan.pdb
+  TARGET_PDB = triangle-vulkan.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target windows
@@ -2125,8 +1874,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/windows.c.obj: C
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\windows.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/__/deps/getopt.c.obj: C_COMPILER__windows_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_windows
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\__\deps\getopt.c.obj.d
@@ -2134,8 +1881,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/__/deps/getopt.c
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\windows.pdb
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/__/deps/glad_gl.c.obj: C_COMPILER__windows_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_windows
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\__\deps\glad_gl.c.obj.d
@@ -2143,8 +1888,6 @@ build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/__/deps/glad_gl.
   INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\__\deps
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\windows.pdb
 
 
 # =============================================================================
@@ -2161,10 +1904,9 @@ build Dependencies/libs/glfw-3.3.9/tests/windows.exe: C_EXECUTABLE_LINKER__windo
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\
   TARGET_FILE = Dependencies\libs\glfw-3.3.9\tests\windows.exe
   TARGET_IMPLIB = Dependencies\libs\glfw-3.3.9\tests\libwindows.dll.a
-  TARGET_PDB = Dependencies\libs\glfw-3.3.9\tests\windows.pdb
+  TARGET_PDB = windows.exe.dbg
 
 
 #############################################
@@ -2405,14 +2147,14 @@ build Dependencies/libs/glfw-3.3.9/tests/all: phony Dependencies/libs/glfw-3.3.9
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/3DProg/Github/HollowEngine/HollowEngine/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/cmake_uninstall.cmake.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw3.pc.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw3Config.cmake.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw_config.h.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/CMakeLists.txt C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDependentOption.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCCompiler.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystem.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestRCCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckLibraryExists.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindDoxygen.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageMessage.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindThreads.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/GNUInstallDirs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/3DProg/Github/HollowEngine/HollowEngine/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/cmake_uninstall.cmake.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw3.pc.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw3Config.cmake.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw_config.h.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/CMakeLists.txt C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDependentOption.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckLibraryExists.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindDoxygen.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageMessage.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindThreads.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/GNUInstallDirs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/3DProg/Github/HollowEngine/HollowEngine/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/cmake_uninstall.cmake.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw3.pc.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw3Config.cmake.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw_config.h.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/CMakeLists.txt C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDependentOption.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCCompiler.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystem.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestRCCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckLibraryExists.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindDoxygen.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageMessage.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindThreads.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/GNUInstallDirs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake: phony
+build C$:/3DProg/Github/HollowEngine/HollowEngine/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/cmake_uninstall.cmake.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/CMakeLists.txt C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw3.pc.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw3Config.cmake.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src/glfw_config.h.in C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/CMakeLists.txt C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDependentOption.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckLibraryExists.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindDoxygen.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageMessage.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/FindThreads.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/GNUInstallDirs.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake C$:/Users/askel/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/241.14494.229/bin/cmake/win/x64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake: phony
 
 
 #############################################
