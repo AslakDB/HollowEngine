@@ -20,8 +20,11 @@ public:
 unsigned int VBO, VAO, EBO;
     std::vector<Vertex> vertices;
     std::vector<Triangle> indices;
+    bool isLine = false;
+
 
     glm::mat4 modelMatrix= glm::mat4(1.f);
+    glm::vec3 PlayerPos = glm::vec3(0.f, 0.f,0.f);
     void Bind()
     {
         glGenVertexArrays(1, &VAO);
@@ -54,7 +57,13 @@ unsigned int VBO, VAO, EBO;
         int modelLoc = glGetUniformLocation(shaderProgram, "model");
         glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(modelMatrix));
         glBindVertexArray(VAO);
-        //glDrawArrays(GL_TRIANGLES, 0, (width - 1) * (length - 1) * 6);
+
+        if(isLine) {
+            glDrawArrays(GL_LINES, 0, vertices.size());
+            glBindVertexArray(0);
+
+            return;
+        }
         glDrawElements(GL_TRIANGLES, indices.size()* 3, GL_UNSIGNED_INT, 0);
         glBindVertexArray(0);
     }

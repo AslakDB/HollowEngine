@@ -21,11 +21,13 @@ float lastX = 960, lastY = 540;
 
 void mouse_callback(GLFWwindow* window, double xpos, double ypos);
 
-void ProsessInput(GLFWwindow *window, float deltaTime);
+void ProsessInput(GLFWwindow *window, float deltaTime, model& Player);
 
 
 struct Render {
 bool inside ;
+
+    model NpcGraph;
 
     std::vector<model*> models;
     //BasicPlane Plane;
@@ -34,57 +36,64 @@ bool inside ;
     model ThePlane;
     model PlayerBox;
 
+
+
     void render(GLFWwindow* window, unsigned int shaderProgram, float deltaTime, float lastFrame) {
+
+     // mouse_callback( window, PlayerBox.PlayerPos.x, PlayerBox.PlayerPos.x);
 
 
         models.emplace_back(&Box);
         models.emplace_back(&Box2);
         models.emplace_back(&ThePlane);
         models.emplace_back(&PlayerBox);
+        models.emplace_back(&NpcGraph);
 
         glm::mat4 trans = glm::mat4(1.0f);
         glm::mat4 projection;
 
         CreateMeshBox(Box);
-        Box.Bind();
+
 
 
         CreateMeshPlane(ThePlane, 20, 20);
-        ThePlane.Bind();
+
 
         CreateMeshBox(Box2);
-        Box2.Bind();
 
         CreateMeshBox(PlayerBox);
-        PlayerBox.Bind();
 
-        ThePlane.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(0.0f, -1.0f, 0.0f));
+        createNPCPoints(NpcGraph, ThePlane);
+        NpcGraph.isLine = true;
+
+
+        NpcGraph.modelMatrix = glm::translate(glm::mat4(1.f),glm::vec3(0.f,0.0f,0.f) );
+        ThePlane.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.0f, 0.0f, 0.0f));
         Box.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.f,10.0f,0.f));
-        Box2.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(8.f,0.0f,0.f));
-        PlayerBox.modelMatrix = glm::translate(ThePlane.modelMatrix, glm::vec3(5.f, 2.5f, 5.f));
+        Box2.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(8.f,0.0f,0.f));
+        PlayerBox.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(5.f, 2.5f, 5.f));
         PlayerBox.modelMatrix = glm::scale(PlayerBox.modelMatrix, glm::vec3(0.5f, 1.f, 0.5f));
+
 
         while (!glfwWindowShouldClose(window))
             {
-                for (auto element: ThePlane.indices) {
-                    actor.calculateBarycentric( inside , ThePlane.vertices[element.A].XYZ, ThePlane.vertices[element.B].XYZ, ThePlane.vertices[element.C].XYZ,
-                        PlayerBox.modelMatrix[3]);
-                    if (inside) {
-                        PlayerBox.modelMatrix[3].y = actor.calculateBarycentric(inside, ThePlane.vertices[element.A].XYZ, ThePlane.vertices[element.B].XYZ, ThePlane.vertices[element.C].XYZ,
-                            PlayerBox.modelMatrix[3]);
-                    }
-                }
+
             float currentFrame = glfwGetTime();
             deltaTime = currentFrame - lastFrame;
             lastFrame = currentFrame;
-            ProsessInput(window, deltaTime);
+            ProsessInput(window, deltaTime, PlayerBox);
 
             projection = glm::perspective(glm::radians(45.0f), 800.0f / 600.0f, 0.1f, 100.0f);
 
-            camera.tick(shaderProgram);
+            camera.tick(shaderProgram, PlayerBox.PlayerPos);
 
 
 
+            for (auto element: ThePlane.indices) {
+                calculateBarycentric(ThePlane.vertices[element.A], ThePlane.vertices[element.B]
+                    ,ThePlane.vertices[element.C], PlayerBox.PlayerPos );
+            }
+            PlayerBox.modelMatrix = glm::translate(glm::mat4(1.f), PlayerBox.PlayerPos);
             glClearColor(0.5f, 0.99f, 0.5f, 1.0f);
             glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
@@ -94,10 +103,13 @@ bool inside ;
             int LightLoc = glGetUniformLocation(shaderProgram, "lightPos");
             glUniform3fv(LightLoc, 1, glm::value_ptr(glm::vec3(5,20,0)));
 
+            glLineWidth(3);
+
+
             for (model* element: models) {
                 element->DrawMesh(shaderProgram);
+                std::cout<<"gello"<<std::endl;
             }
-
             glfwSwapBuffers(window);
             glfwPollEvents();
             }
@@ -138,23 +150,39 @@ void mouse_callback(GLFWwindow* window, double xpos, double ypos)
 }
 
 
-void ProsessInput(GLFWwindow *window, float deltaTime) {
+void ProsessInput(GLFWwindow *window, float deltaTime, model& Player) {
+
+    glm::vec3 cameraFrontXZ = glm::normalize(glm::vec3(camera.cameraFront.x, 0.0f, camera.cameraFront.z));
+
     if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
         glfwSetWindowShouldClose(window, true);
 
     float cameraSpeed = 2.5f * deltaTime ;
-    if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS)
-        camera.cameraPos += cameraSpeed * camera.cameraFront;
+    if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS) {
+        camera.cameraPos += cameraSpeed * cameraFrontXZ;
+        Player.PlayerPos +=  cameraSpeed * cameraFrontXZ;}
     if (glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS)
-        camera.cameraPos -= cameraSpeed * camera.cameraFront;
-    if (glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS)
+       { camera.cameraPos -= cameraSpeed * cameraFrontXZ;
+        Player.PlayerPos -=  cameraSpeed * cameraFrontXZ;}
+    if (glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS){
         camera.cameraPos -= glm::normalize(glm::cross(camera.cameraFront, camera.cameraUp)) * cameraSpeed;
-    if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS)
+    Player.PlayerPos -=  glm::normalize(glm::cross(camera.cameraFront, camera.cameraUp)) * cameraSpeed;}
+    if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS){
         camera.cameraPos += glm::normalize(glm::cross(camera.cameraFront, camera.cameraUp)) * cameraSpeed;
+    Player.PlayerPos +=  glm::normalize(glm::cross(camera.cameraFront, camera.cameraUp)) * cameraSpeed;}
     if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS)
         camera.cameraPos += cameraSpeed * camera.cameraUp; // Move camera up
     if (glfwGetKey(window, GLFW_KEY_Q) == GLFW_PRESS)
         camera.cameraPos -= cameraSpeed * camera.cameraUp;
+
+    if(glfwGetKey(window, GLFW_KEY_I) == GLFW_PRESS)
+        Player.PlayerPos +=  glm::vec3(1.f* deltaTime,0,0);
+    if(glfwGetKey(window, GLFW_KEY_J) == GLFW_PRESS)
+        Player.PlayerPos +=  glm::vec3(0,0,-1.f* deltaTime);
+    if(glfwGetKey(window, GLFW_KEY_K) == GLFW_PRESS)
+
+    if(glfwGetKey(window, GLFW_KEY_L) == GLFW_PRESS)
+        Player.PlayerPos +=  glm::vec3(0,0,1.f* deltaTime);
 
 }
 #endif //RENDER_H

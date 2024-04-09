@@ -30,7 +30,7 @@ public:
     float yaw = -90.0f;
     float pitch = 0.f;
     float roll = 0.f;
-    void tick(unsigned int shaderProgram);
+    void tick(unsigned int shaderProgram, glm::vec3 OrbitPos);
 };
 
 

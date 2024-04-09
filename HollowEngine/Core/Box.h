@@ -48,6 +48,7 @@ inline void CreateMeshBox(model& boxModel) {
         boxModel.vertices[index.C].Normals += glm::normalize(normal);
     }
 
+    boxModel.Bind();
 }
 
 
@@ -87,10 +88,67 @@ void CreateMeshPlane(model& planeModel, float xlenght, float zlenght) {
         planeModel.vertices[index.C].Normals += glm::normalize(normal);
 
     }
+
+    planeModel.Bind();
+}
+float f(float x)
+{
+//std::cout<<"hellp"<<std::endl;
+    return 0.0777778*x*x*x -0.361111*x*x - 0.494445*x + 2.77778;
 }
 
-float HeightCheck(glm::vec3 objectPos) {
-    int PlanePosX;
+float calculateNormal(glm::vec3& vektor1, glm::vec3& vektor2) {
+    return vektor1[0]* vektor2[2]- vektor2[0]*vektor1[2];
 }
+
+bool calculateBarycentric(Vertex& P, Vertex& R, Vertex& Q, glm::vec3& PlayerPos) {
+    glm::vec3 x1 = Q.XYZ - P.XYZ;
+    glm::vec3 x2 = R.XYZ - P.XYZ;
+    float Areal = calculateNormal(x1,x2);
+
+    glm::vec3 u1 = Q.XYZ- PlayerPos;
+    glm::vec3 u2 = R.XYZ- PlayerPos;
+
+    float U = calculateNormal(u1,u2) /Areal;
+
+    glm::vec3 v1 = R.XYZ - PlayerPos;
+    glm::vec3 v2 = P.XYZ - PlayerPos;
+
+    float V = calculateNormal(v1,v2)  / Areal;
+
+    float W = 1 - U - V;
+
+    if (U >=0 && V >= 0 && W >=0)
+    {
+        float height=U* P.XYZ.y+ V * Q.XYZ.y + W * R.XYZ.y;
+        PlayerPos.y = height + 0.5;
+        return true;
+    }
+    return false;
+}
+void createNPCPoints(model &lineModel, model ThePlane) {
+
+    for (float i = 5; i < 10; i+=0.1)
+    {
+        float x = i;
+        float y = 0;
+        float z = f(i);
+
+
+        glm::vec3 Temp(x,y,z);
+        for (auto element: ThePlane.indices) {
+            if(calculateBarycentric(ThePlane.vertices[element.A], ThePlane.vertices[element.B]
+                ,ThePlane.vertices[element.C], Temp)) {
+                lineModel.vertices.emplace_back(Temp,glm::vec3(0.f), glm::vec3(1.f, 0.f, 0.f));
+                break;
+            }
+        }
+
+    };
+    lineModel.Bind();
+
+}
+
+
 
 #endif //BOX_H
