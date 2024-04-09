@@ -55,10 +55,10 @@ inline void CreateMeshBox(model& boxModel) {
 
 float f(float x, float y) {
     return glm::cos(x) + glm::cos(y);
-
 }
+
 void CreateMeshPlane(model& planeModel, float xlenght, float zlenght) {
-    float totalxlength, totalzlength;
+    float totalxlength = 0, totalzlength = 0;
 
     for (float x = 0; x < xlenght; x +=0.1) {
         for (float y = 0; y < zlenght; y +=0.1) {
@@ -93,7 +93,7 @@ void CreateMeshPlane(model& planeModel, float xlenght, float zlenght) {
 }
 float f(float x)
 {
-//std::cout<<"hellp"<<std::endl;
+std::cout<<"hellp"<<std::endl;
     return 0.0777778*x*x*x -0.361111*x*x - 0.494445*x + 2.77778;
 }
 
@@ -105,6 +105,7 @@ bool calculateBarycentric(Vertex& P, Vertex& R, Vertex& Q, glm::vec3& PlayerPos)
     glm::vec3 x1 = Q.XYZ - P.XYZ;
     glm::vec3 x2 = R.XYZ - P.XYZ;
     float Areal = calculateNormal(x1,x2);
+
 
     glm::vec3 u1 = Q.XYZ- PlayerPos;
     glm::vec3 u2 = R.XYZ- PlayerPos;
@@ -128,7 +129,7 @@ bool calculateBarycentric(Vertex& P, Vertex& R, Vertex& Q, glm::vec3& PlayerPos)
 }
 void createNPCPoints(model &lineModel, model ThePlane) {
 
-    for (float i = 5; i < 10; i+=0.1)
+    for (float i = 2; i < 10; i+=0.1)
     {
         float x = i;
         float y = 0;
