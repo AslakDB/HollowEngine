@@ -27,12 +27,12 @@ void ProsessInput(GLFWwindow *window, float deltaTime, model& Player);
 struct Render {
 bool inside ;
 
+
     model NpcGraph;
 
+
     std::vector<model*> models;
-    //BasicPlane Plane;
-    model Box;
-    model Box2;
+model Box2;
     model ThePlane;
     model PlayerBox;
 
@@ -43,7 +43,7 @@ bool inside ;
      // mouse_callback( window, PlayerBox.PlayerPos.x, PlayerBox.PlayerPos.x);
 
 
-        models.emplace_back(&Box);
+
         models.emplace_back(&Box2);
         models.emplace_back(&ThePlane);
         models.emplace_back(&PlayerBox);
@@ -52,7 +52,7 @@ bool inside ;
         glm::mat4 trans = glm::mat4(1.0f);
         glm::mat4 projection;
 
-        CreateMeshBox(Box);
+
 
 
 
@@ -69,11 +69,11 @@ bool inside ;
 
         NpcGraph.modelMatrix = glm::translate(glm::mat4(1.f),glm::vec3(0.f,0.0f,0.f) );
         ThePlane.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.0f, 0.0f, 0.0f));
-        Box.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.f,10.0f,0.f));
         Box2.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(8.f,0.0f,0.f));
         PlayerBox.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(5.f, 2.5f, 5.f));
         PlayerBox.modelMatrix = glm::scale(PlayerBox.modelMatrix, glm::vec3(0.5f, 1.f, 0.5f));
 
+        bool isMovingforward = true;
 
         while (!glfwWindowShouldClose(window))
             {
@@ -86,8 +86,6 @@ bool inside ;
             projection = glm::perspective(glm::radians(45.0f), 800.0f / 600.0f, 0.1f, 100.0f);
 
             camera.tick(shaderProgram, PlayerBox.PlayerPos);
-
-
 
             for (auto element: ThePlane.indices) {
                 calculateBarycentric(ThePlane.vertices[element.A], ThePlane.vertices[element.B]
@@ -108,7 +106,7 @@ bool inside ;
 
             for (model* element: models) {
                 element->DrawMesh(shaderProgram);
-                std::cout<<"gello"<<std::endl;
+
             }
             glfwSwapBuffers(window);
             glfwPollEvents();

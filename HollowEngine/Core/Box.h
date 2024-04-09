@@ -150,6 +150,4 @@ void createNPCPoints(model &lineModel, model ThePlane) {
 
 }
 
-
-
 #endif //BOX_H
