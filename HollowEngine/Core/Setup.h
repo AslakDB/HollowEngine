@@ -3,9 +3,20 @@
 //
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
+#include "Shaders.h"
+
 
 #ifndef MAIN_CPP_SETUP_H
 #define MAIN_CPP_SETUP_H
+
+
+Shaders shaders;
+
+std::string vertexShaderSourceString = shaders.readFile("../Shaders/Shader.vs");
+std::string fragmentShaderSourceString = shaders.readFile("../Shaders/Shader.fs");
+
+const char *vertexShaderSource = vertexShaderSourceString.c_str();
+const char *fragmentShaderSource = fragmentShaderSourceString.c_str();
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 struct SetUp
@@ -47,20 +58,13 @@ struct SetUp
             return;
         }
 
-        /*shader.CreateVertexShader(vertexShaderSource);
-        shader.CreateFragmentShader(fragmentShaderSource);
-        shader.LinkProgram();
-        shaderProgram = shader.GetProgram();
-        */
+        shaders.CreateFragmentShader(fragmentShaderSource);
+        shaders.CreateVertexShader(vertexShaderSource);
+        shaders.LinkProgram();
 
         glEnable(GL_DEPTH_TEST);
-       // glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
-      //  glfwSetCursorPosCallback(window, mouse_callback);
-
+        glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
     }
-
-
-
 };
 void framebuffer_size_callback(GLFWwindow* window, int width, int height)
 {

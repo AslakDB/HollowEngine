@@ -113,41 +113,11 @@ CMakeFiles/HollowEngine.dir/Core/Camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/HollowEngine.dir/Core/Camera.cpp.s"
 	C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\School\3DProgramming\HollowEngine\HollowEngine\Core\Camera.cpp -o CMakeFiles\HollowEngine.dir\Core\Camera.cpp.s
 
-CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj: CMakeFiles/HollowEngine.dir/flags.make
-CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj: CMakeFiles/HollowEngine.dir/includes_CXX.rsp
-CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj: D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Actor.cpp
-CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj: CMakeFiles/HollowEngine.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\School\3DProgramming\HollowEngine\HollowEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj"
-	C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj -MF CMakeFiles\HollowEngine.dir\Core\Actor.cpp.obj.d -o CMakeFiles\HollowEngine.dir\Core\Actor.cpp.obj -c D:\School\3DProgramming\HollowEngine\HollowEngine\Core\Actor.cpp
-
-CMakeFiles/HollowEngine.dir/Core/Actor.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/HollowEngine.dir/Core/Actor.cpp.i"
-	C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\School\3DProgramming\HollowEngine\HollowEngine\Core\Actor.cpp > CMakeFiles\HollowEngine.dir\Core\Actor.cpp.i
-
-CMakeFiles/HollowEngine.dir/Core/Actor.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/HollowEngine.dir/Core/Actor.cpp.s"
-	C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\School\3DProgramming\HollowEngine\HollowEngine\Core\Actor.cpp -o CMakeFiles\HollowEngine.dir\Core\Actor.cpp.s
-
-CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj: CMakeFiles/HollowEngine.dir/flags.make
-CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj: CMakeFiles/HollowEngine.dir/includes_CXX.rsp
-CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj: D:/School/3DProgramming/HollowEngine/HollowEngine/Scene/Window.cpp
-CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj: CMakeFiles/HollowEngine.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\School\3DProgramming\HollowEngine\HollowEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj"
-	C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj -MF CMakeFiles\HollowEngine.dir\Scene\Window.cpp.obj.d -o CMakeFiles\HollowEngine.dir\Scene\Window.cpp.obj -c D:\School\3DProgramming\HollowEngine\HollowEngine\Scene\Window.cpp
-
-CMakeFiles/HollowEngine.dir/Scene/Window.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/HollowEngine.dir/Scene/Window.cpp.i"
-	C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\School\3DProgramming\HollowEngine\HollowEngine\Scene\Window.cpp > CMakeFiles\HollowEngine.dir\Scene\Window.cpp.i
-
-CMakeFiles/HollowEngine.dir/Scene/Window.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/HollowEngine.dir/Scene/Window.cpp.s"
-	C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\School\3DProgramming\HollowEngine\HollowEngine\Scene\Window.cpp -o CMakeFiles\HollowEngine.dir\Scene\Window.cpp.s
-
 CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: CMakeFiles/HollowEngine.dir/flags.make
 CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: CMakeFiles/HollowEngine.dir/includes_CXX.rsp
 CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: D:/School/3DProgramming/HollowEngine/HollowEngine/Core/Shaders.cpp
 CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: CMakeFiles/HollowEngine.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\School\3DProgramming\HollowEngine\HollowEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\School\3DProgramming\HollowEngine\HollowEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj"
 	C:\Users\Aslak\AppData\Local\Programs\CLION2~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj -MF CMakeFiles\HollowEngine.dir\Core\Shaders.cpp.obj.d -o CMakeFiles\HollowEngine.dir\Core\Shaders.cpp.obj -c D:\School\3DProgramming\HollowEngine\HollowEngine\Core\Shaders.cpp
 
 CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.i: cmake_force
@@ -163,8 +133,6 @@ HollowEngine_OBJECTS = \
 "CMakeFiles/HollowEngine.dir/main.cpp.obj" \
 "CMakeFiles/HollowEngine.dir/glad.c.obj" \
 "CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj" \
-"CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj" \
-"CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj" \
 "CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj"
 
 # External object files for target HollowEngine
@@ -173,15 +141,13 @@ HollowEngine_EXTERNAL_OBJECTS =
 HollowEngine.exe: CMakeFiles/HollowEngine.dir/main.cpp.obj
 HollowEngine.exe: CMakeFiles/HollowEngine.dir/glad.c.obj
 HollowEngine.exe: CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj
-HollowEngine.exe: CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj
-HollowEngine.exe: CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj
 HollowEngine.exe: CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj
 HollowEngine.exe: CMakeFiles/HollowEngine.dir/build.make
 HollowEngine.exe: Dependencies/libs/glfw-3.3.9/src/libglfw3.a
 HollowEngine.exe: CMakeFiles/HollowEngine.dir/linkLibs.rsp
 HollowEngine.exe: CMakeFiles/HollowEngine.dir/objects1.rsp
 HollowEngine.exe: CMakeFiles/HollowEngine.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\School\3DProgramming\HollowEngine\HollowEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable HollowEngine.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\School\3DProgramming\HollowEngine\HollowEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable HollowEngine.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\HollowEngine.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

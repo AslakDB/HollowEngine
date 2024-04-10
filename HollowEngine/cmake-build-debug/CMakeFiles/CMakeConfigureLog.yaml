@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fpn117"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fpn117"
+      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y57kqe"
+      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y57kqe"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -71,13 +71,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fpn117'
+        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y57kqe'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_0663c/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_0663c.dir\\build.make CMakeFiles/cmTC_0663c.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fpn117'
-        Building C object CMakeFiles/cmTC_0663c.dir/CMakeCCompilerABI.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_8531c/fast
+        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_8531c.dir\\build.make CMakeFiles/cmTC_8531c.dir/build
+        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y57kqe'
+        Building C object CMakeFiles/cmTC_8531c.dir/CMakeCCompilerABI.c.obj
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe
         Target: x86_64-w64-mingw32
@@ -85,8 +85,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_0663c.dir\\'
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_0663c.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccTE06Ee.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8531c.dir\\'
+         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_8531c.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccRHRxra.s
         GNU C17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.2.0-p4, MPC version 1.3.1, isl version none
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -104,17 +104,17 @@ events:
          C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 2aa4fcf5c9208168c5e2d38a58fc2a97
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_0663c.dir\\'
-         as -v -o CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccTE06Ee.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8531c.dir\\'
+         as -v -o CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccRHRxra.s
         GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40
         COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.'
-        Linking C executable cmTC_0663c.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_0663c.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_0663c.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_0663c.dir/objects.a @CMakeFiles\\cmTC_0663c.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -v -Wl,--whole-archive CMakeFiles\\cmTC_0663c.dir/objects.a -Wl,--no-whole-archive -o cmTC_0663c.exe -Wl,--out-implib,libcmTC_0663c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.'
+        Linking C executable cmTC_8531c.exe
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_8531c.dir\\link.txt --verbose=1
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_8531c.dir/objects.a
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_8531c.dir/objects.a @CMakeFiles\\cmTC_8531c.dir\\objects1.rsp
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -v -Wl,--whole-archive CMakeFiles\\cmTC_8531c.dir/objects.a -Wl,--no-whole-archive -o cmTC_8531c.exe -Wl,--out-implib,libcmTC_8531c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe
         COLLECT_LTO_WRAPPER=C:/Users/Aslak/AppData/Local/Programs/CLion\\ 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
@@ -125,10 +125,10 @@ events:
         gcc version 13.1.0 (GCC) 
         COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0663c.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_0663c.'
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_0663c.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_0663c.dir/objects.a --no-whole-archive --out-implib libcmTC_0663c.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0663c.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_0663c.'
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fpn117'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8531c.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_8531c.'
+         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_8531c.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_8531c.dir/objects.a --no-whole-archive --out-implib libcmTC_8531c.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8531c.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_8531c.'
+        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y57kqe'
         
       exitCode: 0
   -
@@ -162,13 +162,13 @@ events:
     message: |
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fpn117']
+        ignore line: [Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y57kqe']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_0663c/fast]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_0663c.dir\\build.make CMakeFiles/cmTC_0663c.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fpn117']
-        ignore line: [Building C object CMakeFiles/cmTC_0663c.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_8531c/fast]
+        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_8531c.dir\\build.make CMakeFiles/cmTC_8531c.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y57kqe']
+        ignore line: [Building C object CMakeFiles/cmTC_8531c.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -176,8 +176,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_0663c.dir\\']
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_0663c.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccTE06Ee.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8531c.dir\\']
+        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_8531c.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccRHRxra.s]
         ignore line: [GNU C17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.2.0-p4  MPC version 1.3.1  isl version none]
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -195,8 +195,8 @@ events:
         ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 2aa4fcf5c9208168c5e2d38a58fc2a97]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_0663c.dir\\']
-        ignore line: [ as -v -o CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccTE06Ee.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8531c.dir\\']
+        ignore line: [ as -v -o CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccRHRxra.s]
         ignore line: [GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40]
         ignore line: [COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/]
@@ -206,12 +206,12 @@ events:
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_0663c.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_0663c.exe]
-        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_0663c.dir\\link.txt --verbose=1]
-        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_0663c.dir/objects.a]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_0663c.dir/objects.a @CMakeFiles\\cmTC_0663c.dir\\objects1.rsp]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -v -Wl --whole-archive CMakeFiles\\cmTC_0663c.dir/objects.a -Wl --no-whole-archive -o cmTC_0663c.exe -Wl --out-implib libcmTC_0663c.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8531c.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_8531c.exe]
+        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_8531c.dir\\link.txt --verbose=1]
+        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_8531c.dir/objects.a]
+        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_8531c.dir/objects.a @CMakeFiles\\cmTC_8531c.dir\\objects1.rsp]
+        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -v -Wl --whole-archive CMakeFiles\\cmTC_8531c.dir/objects.a -Wl --no-whole-archive -o cmTC_8531c.exe -Wl --out-implib libcmTC_8531c.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Users/Aslak/AppData/Local/Programs/CLion\\ 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
@@ -228,10 +228,10 @@ events:
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0663c.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_0663c.']
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_0663c.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_0663c.dir/objects.a --no-whole-archive --out-implib libcmTC_0663c.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0663c.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_0663c.']
-        ignore line: [mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fpn117']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8531c.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_8531c.']
+        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_8531c.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_8531c.dir/objects.a --no-whole-archive --out-implib libcmTC_8531c.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8531c.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_8531c.']
+        ignore line: [mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y57kqe']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -249,8 +249,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kg8z3v"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kg8z3v"
+      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-otfcmy"
+      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-otfcmy"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -259,13 +259,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kg8z3v'
+        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-otfcmy'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_9f8c2/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_9f8c2.dir\\build.make CMakeFiles/cmTC_9f8c2.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kg8z3v'
-        Building CXX object CMakeFiles/cmTC_9f8c2.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_676d9/fast
+        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_676d9.dir\\build.make CMakeFiles/cmTC_676d9.dir/build
+        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-otfcmy'
+        Building CXX object CMakeFiles/cmTC_676d9.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE
         Target: x86_64-w64-mingw32
@@ -273,8 +273,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_9f8c2.dir\\'
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_9f8c2.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\cc7Il8yc.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_676d9.dir\\'
+         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_676d9.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccggTGid.s
         GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.2.0-p4, MPC version 1.3.1, isl version none
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -298,17 +298,17 @@ events:
          C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: e75de627edc3c57e31324b930b15b056
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_9f8c2.dir\\'
-         as -v -o CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\cc7Il8yc.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_676d9.dir\\'
+         as -v -o CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccggTGid.s
         GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40
         COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_9f8c2.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_9f8c2.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_9f8c2.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_9f8c2.dir/objects.a @CMakeFiles\\cmTC_9f8c2.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl,--whole-archive CMakeFiles\\cmTC_9f8c2.dir/objects.a -Wl,--no-whole-archive -o cmTC_9f8c2.exe -Wl,--out-implib,libcmTC_9f8c2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_676d9.exe
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_676d9.dir\\link.txt --verbose=1
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_676d9.dir/objects.a
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_676d9.dir/objects.a @CMakeFiles\\cmTC_676d9.dir\\objects1.rsp
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl,--whole-archive CMakeFiles\\cmTC_676d9.dir/objects.a -Wl,--no-whole-archive -o cmTC_676d9.exe -Wl,--out-implib,libcmTC_676d9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE
         COLLECT_LTO_WRAPPER=C:/Users/Aslak/AppData/Local/Programs/CLion\\ 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
@@ -319,10 +319,10 @@ events:
         gcc version 13.1.0 (GCC) 
         COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f8c2.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_9f8c2.'
-         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_9f8c2.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_9f8c2.dir/objects.a --no-whole-archive --out-implib libcmTC_9f8c2.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f8c2.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_9f8c2.'
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kg8z3v'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_676d9.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_676d9.'
+         C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_676d9.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_676d9.dir/objects.a --no-whole-archive --out-implib libcmTC_676d9.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_676d9.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_676d9.'
+        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-otfcmy'
         
       exitCode: 0
   -
@@ -362,13 +362,13 @@ events:
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kg8z3v']
+        ignore line: [Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-otfcmy']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_9f8c2/fast]
-        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_9f8c2.dir\\build.make CMakeFiles/cmTC_9f8c2.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kg8z3v']
-        ignore line: [Building CXX object CMakeFiles/cmTC_9f8c2.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_676d9/fast]
+        ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_676d9.dir\\build.make CMakeFiles/cmTC_676d9.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-otfcmy']
+        ignore line: [Building CXX object CMakeFiles/cmTC_676d9.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -376,8 +376,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_9f8c2.dir\\']
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_9f8c2.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\cc7Il8yc.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_676d9.dir\\']
+        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_676d9.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccggTGid.s]
         ignore line: [GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.2.0-p4  MPC version 1.3.1  isl version none]
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -401,8 +401,8 @@ events:
         ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: e75de627edc3c57e31324b930b15b056]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_9f8c2.dir\\']
-        ignore line: [ as -v -o CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\cc7Il8yc.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_676d9.dir\\']
+        ignore line: [ as -v -o CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Aslak\\AppData\\Local\\Temp\\ccggTGid.s]
         ignore line: [GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40]
         ignore line: [COMPILER_PATH=C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/]
@@ -412,12 +412,12 @@ events:
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_9f8c2.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_9f8c2.exe]
-        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_9f8c2.dir\\link.txt --verbose=1]
-        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_9f8c2.dir/objects.a]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_9f8c2.dir/objects.a @CMakeFiles\\cmTC_9f8c2.dir\\objects1.rsp]
-        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl --whole-archive CMakeFiles\\cmTC_9f8c2.dir/objects.a -Wl --no-whole-archive -o cmTC_9f8c2.exe -Wl --out-implib libcmTC_9f8c2.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_676d9.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_676d9.exe]
+        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_676d9.dir\\link.txt --verbose=1]
+        ignore line: ["C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_676d9.dir/objects.a]
+        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_676d9.dir/objects.a @CMakeFiles\\cmTC_676d9.dir\\objects1.rsp]
+        ignore line: [C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl --whole-archive CMakeFiles\\cmTC_676d9.dir/objects.a -Wl --no-whole-archive -o cmTC_676d9.exe -Wl --out-implib libcmTC_676d9.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\G__~1.EXE]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Users/Aslak/AppData/Local/Programs/CLion\\ 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
@@ -434,10 +434,10 @@ events:
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f8c2.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_9f8c2.']
-        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_9f8c2.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_9f8c2.dir/objects.a --no-whole-archive --out-implib libcmTC_9f8c2.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f8c2.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_9f8c2.']
-        ignore line: [mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kg8z3v']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_676d9.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_676d9.']
+        ignore line: [ C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_676d9.exe C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. --whole-archive CMakeFiles\\cmTC_676d9.dir/objects.a --no-whole-archive --out-implib libcmTC_676d9.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_676d9.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_676d9.']
+        ignore line: [mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-otfcmy']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -457,8 +457,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-azrxt3"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-azrxt3"
+      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dac7o6"
+      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dac7o6"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -468,19 +468,19 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-azrxt3'
+        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dac7o6'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_f3365/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f3365.dir\\build.make CMakeFiles/cmTC_f3365.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-azrxt3'
-        Building C object CMakeFiles/cmTC_f3365.dir/src.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -DCMAKE_HAVE_LIBC_PTHREAD  -fdiagnostics-color=always -o CMakeFiles\\cmTC_f3365.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-azrxt3\\src.c
-        Linking C executable cmTC_f3365.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_f3365.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_f3365.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_f3365.dir/objects.a @CMakeFiles\\cmTC_f3365.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_f3365.dir/objects.a -Wl,--no-whole-archive -o cmTC_f3365.exe -Wl,--out-implib,libcmTC_f3365.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_f3365.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-azrxt3'
+        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_f6e0d/fast
+        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f6e0d.dir\\build.make CMakeFiles/cmTC_f6e0d.dir/build
+        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dac7o6'
+        Building C object CMakeFiles/cmTC_f6e0d.dir/src.c.obj
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -DCMAKE_HAVE_LIBC_PTHREAD  -fdiagnostics-color=always -o CMakeFiles\\cmTC_f6e0d.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-dac7o6\\src.c
+        Linking C executable cmTC_f6e0d.exe
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_f6e0d.dir\\link.txt --verbose=1
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_f6e0d.dir/objects.a
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_f6e0d.dir/objects.a @CMakeFiles\\cmTC_f6e0d.dir\\objects1.rsp
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_f6e0d.dir/objects.a -Wl,--no-whole-archive -o cmTC_f6e0d.exe -Wl,--out-implib,libcmTC_f6e0d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_f6e0d.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dac7o6'
         
       exitCode: 0
   -
@@ -491,8 +491,8 @@ events:
     checks:
       - "Looking for dinput.h"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-awx4rv"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-awx4rv"
+      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-e1gkz4"
+      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-e1gkz4"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -502,19 +502,19 @@ events:
       variable: "DINPUT_H_FOUND"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-awx4rv'
+        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-e1gkz4'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_9c4dc/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_9c4dc.dir\\build.make CMakeFiles/cmTC_9c4dc.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-awx4rv'
-        Building C object CMakeFiles/cmTC_9c4dc.dir/CheckIncludeFile.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always -o CMakeFiles\\cmTC_9c4dc.dir\\CheckIncludeFile.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-awx4rv\\CheckIncludeFile.c
-        Linking C executable cmTC_9c4dc.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_9c4dc.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_9c4dc.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_9c4dc.dir/objects.a @CMakeFiles\\cmTC_9c4dc.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_9c4dc.dir/objects.a -Wl,--no-whole-archive -o cmTC_9c4dc.exe -Wl,--out-implib,libcmTC_9c4dc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_9c4dc.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-awx4rv'
+        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_b9bef/fast
+        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_b9bef.dir\\build.make CMakeFiles/cmTC_b9bef.dir/build
+        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-e1gkz4'
+        Building C object CMakeFiles/cmTC_b9bef.dir/CheckIncludeFile.c.obj
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always -o CMakeFiles\\cmTC_b9bef.dir\\CheckIncludeFile.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-e1gkz4\\CheckIncludeFile.c
+        Linking C executable cmTC_b9bef.exe
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_b9bef.dir\\link.txt --verbose=1
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_b9bef.dir/objects.a
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_b9bef.dir/objects.a @CMakeFiles\\cmTC_b9bef.dir\\objects1.rsp
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_b9bef.dir/objects.a -Wl,--no-whole-archive -o cmTC_b9bef.exe -Wl,--out-implib,libcmTC_b9bef.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_b9bef.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-e1gkz4'
         
       exitCode: 0
   -
@@ -525,8 +525,8 @@ events:
     checks:
       - "Looking for xinput.h"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3fqz4g"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3fqz4g"
+      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ccd9gs"
+      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ccd9gs"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -536,19 +536,19 @@ events:
       variable: "XINPUT_H_FOUND"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3fqz4g'
+        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ccd9gs'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_3fff3/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3fff3.dir\\build.make CMakeFiles/cmTC_3fff3.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3fqz4g'
-        Building C object CMakeFiles/cmTC_3fff3.dir/CheckIncludeFile.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always -o CMakeFiles\\cmTC_3fff3.dir\\CheckIncludeFile.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-3fqz4g\\CheckIncludeFile.c
-        Linking C executable cmTC_3fff3.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3fff3.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_3fff3.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_3fff3.dir/objects.a @CMakeFiles\\cmTC_3fff3.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_3fff3.dir/objects.a -Wl,--no-whole-archive -o cmTC_3fff3.exe -Wl,--out-implib,libcmTC_3fff3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_3fff3.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3fqz4g'
+        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_4ac31/fast
+        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_4ac31.dir\\build.make CMakeFiles/cmTC_4ac31.dir/build
+        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ccd9gs'
+        Building C object CMakeFiles/cmTC_4ac31.dir/CheckIncludeFile.c.obj
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always -o CMakeFiles\\cmTC_4ac31.dir\\CheckIncludeFile.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-ccd9gs\\CheckIncludeFile.c
+        Linking C executable cmTC_4ac31.exe
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_4ac31.dir\\link.txt --verbose=1
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_4ac31.dir/objects.a
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_4ac31.dir/objects.a @CMakeFiles\\cmTC_4ac31.dir\\objects1.rsp
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_4ac31.dir/objects.a -Wl,--no-whole-archive -o cmTC_4ac31.exe -Wl,--out-implib,libcmTC_4ac31.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_4ac31.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ccd9gs'
         
       exitCode: 0
   -
@@ -561,8 +561,8 @@ events:
     checks:
       - "Performing Test _GLFW_HAS_DEP"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ko1e0d"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ko1e0d"
+      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tvp8ah"
+      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tvp8ah"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -572,19 +572,19 @@ events:
       variable: "_GLFW_HAS_DEP"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ko1e0d'
+        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tvp8ah'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_52480/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_52480.dir\\build.make CMakeFiles/cmTC_52480.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ko1e0d'
-        Building C object CMakeFiles/cmTC_52480.dir/src.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_DEP  -Wl,--nxcompat -fdiagnostics-color=always -o CMakeFiles\\cmTC_52480.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-ko1e0d\\src.c
-        Linking C executable cmTC_52480.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_52480.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_52480.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_52480.dir/objects.a @CMakeFiles\\cmTC_52480.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--nxcompat -Wl,--whole-archive CMakeFiles\\cmTC_52480.dir/objects.a -Wl,--no-whole-archive -o cmTC_52480.exe -Wl,--out-implib,libcmTC_52480.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_52480.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ko1e0d'
+        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_7cc81/fast
+        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_7cc81.dir\\build.make CMakeFiles/cmTC_7cc81.dir/build
+        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tvp8ah'
+        Building C object CMakeFiles/cmTC_7cc81.dir/src.c.obj
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_DEP  -Wl,--nxcompat -fdiagnostics-color=always -o CMakeFiles\\cmTC_7cc81.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-tvp8ah\\src.c
+        Linking C executable cmTC_7cc81.exe
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_7cc81.dir\\link.txt --verbose=1
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_7cc81.dir/objects.a
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_7cc81.dir/objects.a @CMakeFiles\\cmTC_7cc81.dir\\objects1.rsp
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--nxcompat -Wl,--whole-archive CMakeFiles\\cmTC_7cc81.dir/objects.a -Wl,--no-whole-archive -o cmTC_7cc81.exe -Wl,--out-implib,libcmTC_7cc81.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_7cc81.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tvp8ah'
         
       exitCode: 0
   -
@@ -597,8 +597,8 @@ events:
     checks:
       - "Performing Test _GLFW_HAS_ASLR"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j45ghz"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j45ghz"
+      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-0yjafb"
+      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-0yjafb"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -608,19 +608,19 @@ events:
       variable: "_GLFW_HAS_ASLR"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j45ghz'
+        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-0yjafb'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_99776/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_99776.dir\\build.make CMakeFiles/cmTC_99776.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j45ghz'
-        Building C object CMakeFiles/cmTC_99776.dir/src.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_ASLR  -Wl,--dynamicbase -fdiagnostics-color=always -o CMakeFiles\\cmTC_99776.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-j45ghz\\src.c
-        Linking C executable cmTC_99776.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_99776.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_99776.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_99776.dir/objects.a @CMakeFiles\\cmTC_99776.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--dynamicbase -Wl,--whole-archive CMakeFiles\\cmTC_99776.dir/objects.a -Wl,--no-whole-archive -o cmTC_99776.exe -Wl,--out-implib,libcmTC_99776.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_99776.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j45ghz'
+        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_9bb5a/fast
+        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_9bb5a.dir\\build.make CMakeFiles/cmTC_9bb5a.dir/build
+        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-0yjafb'
+        Building C object CMakeFiles/cmTC_9bb5a.dir/src.c.obj
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_ASLR  -Wl,--dynamicbase -fdiagnostics-color=always -o CMakeFiles\\cmTC_9bb5a.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-0yjafb\\src.c
+        Linking C executable cmTC_9bb5a.exe
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_9bb5a.dir\\link.txt --verbose=1
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_9bb5a.dir/objects.a
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_9bb5a.dir/objects.a @CMakeFiles\\cmTC_9bb5a.dir\\objects1.rsp
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--dynamicbase -Wl,--whole-archive CMakeFiles\\cmTC_9bb5a.dir/objects.a -Wl,--no-whole-archive -o cmTC_9bb5a.exe -Wl,--out-implib,libcmTC_9bb5a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_9bb5a.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-0yjafb'
         
       exitCode: 0
   -
@@ -633,8 +633,8 @@ events:
     checks:
       - "Performing Test _GLFW_HAS_64ASLR"
     directories:
-      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vs60n6"
-      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vs60n6"
+      source: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-npzkpq"
+      binary: "D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-npzkpq"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -644,19 +644,19 @@ events:
       variable: "_GLFW_HAS_64ASLR"
       cached: true
       stdout: |
-        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vs60n6'
+        Change Dir: 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-npzkpq'
         
-        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_b320a/fast
-        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_b320a.dir\\build.make CMakeFiles/cmTC_b320a.dir/build
-        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vs60n6'
-        Building C object CMakeFiles/cmTC_b320a.dir/src.c.obj
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_64ASLR  -Wl,--high-entropy-va -fdiagnostics-color=always -o CMakeFiles\\cmTC_b320a.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-vs60n6\\src.c
-        Linking C executable cmTC_b320a.exe
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_b320a.dir\\link.txt --verbose=1
-        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_b320a.dir/objects.a
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_b320a.dir/objects.a @CMakeFiles\\cmTC_b320a.dir\\objects1.rsp
-        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--high-entropy-va -Wl,--whole-archive CMakeFiles\\cmTC_b320a.dir/objects.a -Wl,--no-whole-archive -o cmTC_b320a.exe -Wl,--out-implib,libcmTC_b320a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_b320a.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vs60n6'
+        Run Build Command(s): "C:/Users/Aslak/AppData/Local/Programs/CLion 2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_f0e12/fast
+        C:/Users/Aslak/AppData/Local/Programs/CLION2~1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f0e12.dir\\build.make CMakeFiles/cmTC_f0e12.dir/build
+        mingw32-make[1]: Entering directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-npzkpq'
+        Building C object CMakeFiles/cmTC_f0e12.dir/src.c.obj
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe -D_GLFW_HAS_64ASLR  -Wl,--high-entropy-va -fdiagnostics-color=always -o CMakeFiles\\cmTC_f0e12.dir\\src.c.obj -c D:\\School\\3DProgramming\\HollowEngine\\HollowEngine\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-npzkpq\\src.c
+        Linking C executable cmTC_f0e12.exe
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_f0e12.dir\\link.txt --verbose=1
+        "C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLion 2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_f0e12.dir/objects.a
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_f0e12.dir/objects.a @CMakeFiles\\cmTC_f0e12.dir\\objects1.rsp
+        C:\\Users\\Aslak\\AppData\\Local\\Programs\\CLION2~1\\bin\\mingw\\bin\\gcc.exe  -Wl,--high-entropy-va -Wl,--whole-archive CMakeFiles\\cmTC_f0e12.dir/objects.a -Wl,--no-whole-archive -o cmTC_f0e12.exe -Wl,--out-implib,libcmTC_f0e12.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_f0e12.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/School/3DProgramming/HollowEngine/HollowEngine/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-npzkpq'
         
       exitCode: 0
 ...

@@ -17,9 +17,24 @@
 
 
 class Shaders {
-    Shaders(const std::string& vertexPath, const std::string& fragmentPath);
+
+private:
+    unsigned int vertexShader;
+    unsigned int fragmentShader;
+    unsigned int shaderProgram;
+public:
+
+    Shaders();
     unsigned int ID;
 
+    std::string readFile(const std::string& path);
+
+    void CreateVertexShader(const char* vertexShaderSource);
+    void CreateFragmentShader(const char* fragmentShaderSource);
+    void LinkProgram();
+    unsigned int GetProgram();
+
+    void setInt(const std::string &name, int value);
     
 };
 

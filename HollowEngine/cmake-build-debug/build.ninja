@@ -47,47 +47,33 @@ cmake_ninja_workdir = C$:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-de
 #############################################
 # Order-only phony target for HollowEngine
 
-build cmake_object_order_depends_target_HollowEngine: phony || CMakeFiles/HollowEngine.dir
+build cmake_object_order_depends_target_HollowEngine: phony || cmake_object_order_depends_target_glfw
 
 build CMakeFiles/HollowEngine.dir/main.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/main.cpp || cmake_object_order_depends_target_HollowEngine
   DEP_FILE = CMakeFiles\HollowEngine.dir\main.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir
 
 build CMakeFiles/HollowEngine.dir/glad.c.obj: C_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/glad.c || cmake_object_order_depends_target_HollowEngine
   DEP_FILE = CMakeFiles\HollowEngine.dir\glad.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir
 
 build CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/Camera.cpp || cmake_object_order_depends_target_HollowEngine
   DEP_FILE = CMakeFiles\HollowEngine.dir\Core\Camera.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
-
-build CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/Actor.cpp || cmake_object_order_depends_target_HollowEngine
-  DEP_FILE = CMakeFiles\HollowEngine.dir\Core\Actor.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c
-  OBJECT_DIR = CMakeFiles\HollowEngine.dir
-  OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
-
-build CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Scene/Window.cpp || cmake_object_order_depends_target_HollowEngine
-  DEP_FILE = CMakeFiles\HollowEngine.dir\Scene\Window.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c
-  OBJECT_DIR = CMakeFiles\HollowEngine.dir
-  OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Scene
 
 build CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: CXX_COMPILER__HollowEngine_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Core/Shaders.cpp || cmake_object_order_depends_target_HollowEngine
   DEP_FILE = CMakeFiles\HollowEngine.dir\Core\Shaders.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   OBJECT_FILE_DIR = CMakeFiles\HollowEngine.dir\Core
 
@@ -99,9 +85,9 @@ build CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj: CXX_COMPILER__HollowEngi
 #############################################
 # Link the executable HollowEngine.exe
 
-build HollowEngine.exe: CXX_EXECUTABLE_LINKER__HollowEngine_Debug CMakeFiles/HollowEngine.dir/main.cpp.obj CMakeFiles/HollowEngine.dir/glad.c.obj CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj CMakeFiles/HollowEngine.dir/Core/Actor.cpp.obj CMakeFiles/HollowEngine.dir/Scene/Window.cpp.obj CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj
+build HollowEngine.exe: CXX_EXECUTABLE_LINKER__HollowEngine_Debug CMakeFiles/HollowEngine.dir/main.cpp.obj CMakeFiles/HollowEngine.dir/glad.c.obj CMakeFiles/HollowEngine.dir/Core/Camera.cpp.obj CMakeFiles/HollowEngine.dir/Core/Shaders.cpp.obj | Dependencies/libs/glfw-3.3.9/src/libglfw3.a || Dependencies/libs/glfw-3.3.9/src/libglfw3.a
   FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  LINK_LIBRARIES = Dependencies/libs/glfw-3.3.9/src/libglfw3.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\HollowEngine.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
@@ -281,7 +267,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/context.c.obj: C_COMP
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\context.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -289,7 +275,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/init.c.obj: C_COMPILE
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\init.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -297,7 +283,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/input.c.obj: C_COMPIL
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\input.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -305,7 +291,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/monitor.c.obj: C_COMP
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\monitor.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -313,7 +299,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/vulkan.c.obj: C_COMPI
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\vulkan.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -321,7 +307,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/window.c.obj: C_COMPI
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\window.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -329,7 +315,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_init.c.obj: C_C
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\win32_init.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -337,7 +323,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_joystick.c.obj:
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\win32_joystick.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -345,7 +331,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_monitor.c.obj: 
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\win32_monitor.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -353,7 +339,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_time.c.obj: C_C
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\win32_time.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -361,7 +347,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_thread.c.obj: C
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\win32_thread.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -369,7 +355,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/win32_window.c.obj: C
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\win32_window.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -377,7 +363,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/wgl_context.c.obj: C_
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\wgl_context.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -385,7 +371,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/egl_context.c.obj: C_
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\egl_context.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -393,7 +379,7 @@ build Dependencies/libs/glfw-3.3.9/src/CMakeFiles/glfw.dir/osmesa_context.c.obj:
   DEFINES = -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE
   DEP_FILE = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir\osmesa_context.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/src -IC:/3DProg/Github/HollowEngine/HollowEngine/cmake-build-debug/Dependencies/libs/glfw-3.3.9/src
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\src\CMakeFiles\glfw.dir
 
@@ -503,20 +489,20 @@ build cmake_object_order_depends_target_boing: phony || cmake_object_order_depen
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/boing.dir/boing.c.obj: C_COMPILER__boing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/boing.c || cmake_object_order_depends_target_boing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\boing.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/boing.dir/glfw.rc.obj: RC_COMPILER__boing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_boing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/boing.dir/__/deps/glad_gl.c.obj: C_COMPILER__boing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_boing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\boing.dir\__\deps
 
@@ -551,20 +537,20 @@ build cmake_object_order_depends_target_gears: phony || cmake_object_order_depen
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/gears.dir/gears.c.obj: C_COMPILER__gears_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/gears.c || cmake_object_order_depends_target_gears
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\gears.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/gears.dir/glfw.rc.obj: RC_COMPILER__gears_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_gears
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/gears.dir/__/deps/glad_gl.c.obj: C_COMPILER__gears_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_gears
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\gears.dir\__\deps
 
@@ -599,20 +585,20 @@ build cmake_object_order_depends_target_heightmap: phony || cmake_object_order_d
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/heightmap.dir/heightmap.c.obj: C_COMPILER__heightmap_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/heightmap.c || cmake_object_order_depends_target_heightmap
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\heightmap.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/heightmap.dir/glfw.rc.obj: RC_COMPILER__heightmap_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_heightmap
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/heightmap.dir/__/deps/glad_gl.c.obj: C_COMPILER__heightmap_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_heightmap
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\heightmap.dir\__\deps
 
@@ -647,20 +633,20 @@ build cmake_object_order_depends_target_offscreen: phony || cmake_object_order_d
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/offscreen.dir/offscreen.c.obj: C_COMPILER__offscreen_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/offscreen.c || cmake_object_order_depends_target_offscreen
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\offscreen.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/offscreen.dir/glfw.rc.obj: RC_COMPILER__offscreen_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_offscreen
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/offscreen.dir/__/deps/glad_gl.c.obj: C_COMPILER__offscreen_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_offscreen
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\offscreen.dir\__\deps
 
@@ -694,34 +680,34 @@ build cmake_object_order_depends_target_particles: phony || cmake_object_order_d
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/particles.c.obj: C_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/particles.c || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\particles.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/glfw.rc.obj: RC_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.obj: C_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/tinycthread.c || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps\tinycthread.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/getopt.c.obj: C_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/particles.dir/__/deps/glad_gl.c.obj: C_COMPILER__particles_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_particles
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\particles.dir\__\deps
 
@@ -756,20 +742,20 @@ build cmake_object_order_depends_target_sharing: phony || cmake_object_order_dep
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/sharing.dir/sharing.c.obj: C_COMPILER__sharing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/sharing.c || cmake_object_order_depends_target_sharing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\sharing.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/sharing.dir/glfw.rc.obj: RC_COMPILER__sharing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_sharing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/sharing.dir/__/deps/glad_gl.c.obj: C_COMPILER__sharing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_sharing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\sharing.dir\__\deps
 
@@ -804,20 +790,20 @@ build cmake_object_order_depends_target_simple: phony || cmake_object_order_depe
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/simple.dir/simple.c.obj: C_COMPILER__simple_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/simple.c || cmake_object_order_depends_target_simple
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\simple.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/simple.dir/glfw.rc.obj: RC_COMPILER__simple_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_simple
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/simple.dir/__/deps/glad_gl.c.obj: C_COMPILER__simple_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_simple
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\simple.dir\__\deps
 
@@ -852,20 +838,20 @@ build cmake_object_order_depends_target_splitview: phony || cmake_object_order_d
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/splitview.dir/splitview.c.obj: C_COMPILER__splitview_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/splitview.c || cmake_object_order_depends_target_splitview
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\splitview.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/splitview.dir/glfw.rc.obj: RC_COMPILER__splitview_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_splitview
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/splitview.dir/__/deps/glad_gl.c.obj: C_COMPILER__splitview_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_splitview
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\splitview.dir\__\deps
 
@@ -900,20 +886,20 @@ build cmake_object_order_depends_target_wave: phony || cmake_object_order_depend
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/wave.dir/wave.c.obj: C_COMPILER__wave_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/wave.c || cmake_object_order_depends_target_wave
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\wave.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/wave.dir/glfw.rc.obj: RC_COMPILER__wave_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/examples/glfw.rc || cmake_object_order_depends_target_wave
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\glfw.rc.obj.d
-  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -I C:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -I C:/3DProg/Github/HollowEngine/HollowEngine/core -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -I C:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
 
 build Dependencies/libs/glfw-3.3.9/examples/CMakeFiles/wave.dir/__/deps/glad_gl.c.obj: C_COMPILER__wave_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_wave
   DEP_FILE = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\examples\CMakeFiles\wave.dir\__\deps
 
@@ -1018,21 +1004,21 @@ build cmake_object_order_depends_target_clipboard: phony || cmake_object_order_d
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/clipboard.dir/clipboard.c.obj: C_COMPILER__clipboard_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/clipboard.c || cmake_object_order_depends_target_clipboard
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\clipboard.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/clipboard.dir/__/deps/getopt.c.obj: C_COMPILER__clipboard_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_clipboard
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/clipboard.dir/__/deps/glad_gl.c.obj: C_COMPILER__clipboard_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_clipboard
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\clipboard.dir\__\deps
 
@@ -1066,21 +1052,21 @@ build cmake_object_order_depends_target_events: phony || cmake_object_order_depe
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/events.dir/events.c.obj: C_COMPILER__events_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/events.c || cmake_object_order_depends_target_events
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\events.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/events.dir/__/deps/getopt.c.obj: C_COMPILER__events_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_events
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/events.dir/__/deps/glad_gl.c.obj: C_COMPILER__events_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_events
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\events.dir\__\deps
 
@@ -1114,21 +1100,21 @@ build cmake_object_order_depends_target_msaa: phony || cmake_object_order_depend
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/msaa.dir/msaa.c.obj: C_COMPILER__msaa_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/msaa.c || cmake_object_order_depends_target_msaa
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\msaa.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/msaa.dir/__/deps/getopt.c.obj: C_COMPILER__msaa_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_msaa
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/msaa.dir/__/deps/glad_gl.c.obj: C_COMPILER__msaa_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_msaa
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\msaa.dir\__\deps
 
@@ -1162,28 +1148,28 @@ build cmake_object_order_depends_target_glfwinfo: phony || cmake_object_order_de
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/glfwinfo.c.obj: C_COMPILER__glfwinfo_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/glfwinfo.c || cmake_object_order_depends_target_glfwinfo
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\glfwinfo.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/getopt.c.obj: C_COMPILER__glfwinfo_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_glfwinfo
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_gl.c.obj: C_COMPILER__glfwinfo_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_glfwinfo
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_vulkan.c.obj: C_COMPILER__glfwinfo_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_vulkan.c || cmake_object_order_depends_target_glfwinfo
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps\glad_vulkan.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\glfwinfo.dir\__\deps
 
@@ -1217,21 +1203,21 @@ build cmake_object_order_depends_target_iconify: phony || cmake_object_order_dep
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/iconify.dir/iconify.c.obj: C_COMPILER__iconify_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/iconify.c || cmake_object_order_depends_target_iconify
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\iconify.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/iconify.dir/__/deps/getopt.c.obj: C_COMPILER__iconify_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_iconify
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/iconify.dir/__/deps/glad_gl.c.obj: C_COMPILER__iconify_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_iconify
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\iconify.dir\__\deps
 
@@ -1265,21 +1251,21 @@ build cmake_object_order_depends_target_monitors: phony || cmake_object_order_de
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/monitors.dir/monitors.c.obj: C_COMPILER__monitors_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/monitors.c || cmake_object_order_depends_target_monitors
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\monitors.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/monitors.dir/__/deps/getopt.c.obj: C_COMPILER__monitors_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_monitors
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/monitors.dir/__/deps/glad_gl.c.obj: C_COMPILER__monitors_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_monitors
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\monitors.dir\__\deps
 
@@ -1313,14 +1299,14 @@ build cmake_object_order_depends_target_reopen: phony || cmake_object_order_depe
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/reopen.dir/reopen.c.obj: C_COMPILER__reopen_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/reopen.c || cmake_object_order_depends_target_reopen
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir\reopen.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/reopen.dir/__/deps/glad_gl.c.obj: C_COMPILER__reopen_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_reopen
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\reopen.dir\__\deps
 
@@ -1354,14 +1340,14 @@ build cmake_object_order_depends_target_cursor: phony || cmake_object_order_depe
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/cursor.dir/cursor.c.obj: C_COMPILER__cursor_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/cursor.c || cmake_object_order_depends_target_cursor
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir\cursor.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/cursor.dir/__/deps/glad_gl.c.obj: C_COMPILER__cursor_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_cursor
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\cursor.dir\__\deps
 
@@ -1395,21 +1381,21 @@ build cmake_object_order_depends_target_empty: phony || cmake_object_order_depen
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/empty.dir/empty.c.obj: C_COMPILER__empty_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/empty.c || cmake_object_order_depends_target_empty
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\empty.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/empty.dir/__/deps/tinycthread.c.obj: C_COMPILER__empty_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/tinycthread.c || cmake_object_order_depends_target_empty
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\__\deps\tinycthread.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/empty.dir/__/deps/glad_gl.c.obj: C_COMPILER__empty_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_empty
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\empty.dir\__\deps
 
@@ -1444,14 +1430,14 @@ build cmake_object_order_depends_target_gamma: phony || cmake_object_order_depen
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/gamma.dir/gamma.c.obj: C_COMPILER__gamma_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/gamma.c || cmake_object_order_depends_target_gamma
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir\gamma.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/gamma.dir/__/deps/glad_gl.c.obj: C_COMPILER__gamma_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_gamma
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\gamma.dir\__\deps
 
@@ -1486,14 +1472,14 @@ build cmake_object_order_depends_target_icon: phony || cmake_object_order_depend
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/icon.dir/icon.c.obj: C_COMPILER__icon_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/icon.c || cmake_object_order_depends_target_icon
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir\icon.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/icon.dir/__/deps/glad_gl.c.obj: C_COMPILER__icon_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_icon
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\icon.dir\__\deps
 
@@ -1528,21 +1514,21 @@ build cmake_object_order_depends_target_inputlag: phony || cmake_object_order_de
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/inputlag.dir/inputlag.c.obj: C_COMPILER__inputlag_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/inputlag.c || cmake_object_order_depends_target_inputlag
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\inputlag.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/inputlag.dir/__/deps/getopt.c.obj: C_COMPILER__inputlag_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_inputlag
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/inputlag.dir/__/deps/glad_gl.c.obj: C_COMPILER__inputlag_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_inputlag
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\inputlag.dir\__\deps
 
@@ -1577,14 +1563,14 @@ build cmake_object_order_depends_target_joysticks: phony || cmake_object_order_d
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/joysticks.dir/joysticks.c.obj: C_COMPILER__joysticks_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/joysticks.c || cmake_object_order_depends_target_joysticks
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir\joysticks.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/joysticks.dir/__/deps/glad_gl.c.obj: C_COMPILER__joysticks_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_joysticks
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\joysticks.dir\__\deps
 
@@ -1619,14 +1605,14 @@ build cmake_object_order_depends_target_opacity: phony || cmake_object_order_dep
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/opacity.dir/opacity.c.obj: C_COMPILER__opacity_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/opacity.c || cmake_object_order_depends_target_opacity
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir\opacity.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/opacity.dir/__/deps/glad_gl.c.obj: C_COMPILER__opacity_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_opacity
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\opacity.dir\__\deps
 
@@ -1661,14 +1647,14 @@ build cmake_object_order_depends_target_tearing: phony || cmake_object_order_dep
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/tearing.dir/tearing.c.obj: C_COMPILER__tearing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/tearing.c || cmake_object_order_depends_target_tearing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir\tearing.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/tearing.dir/__/deps/glad_gl.c.obj: C_COMPILER__tearing_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_tearing
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\tearing.dir\__\deps
 
@@ -1703,21 +1689,21 @@ build cmake_object_order_depends_target_threads: phony || cmake_object_order_dep
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/threads.dir/threads.c.obj: C_COMPILER__threads_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/threads.c || cmake_object_order_depends_target_threads
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\threads.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/threads.dir/__/deps/tinycthread.c.obj: C_COMPILER__threads_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/tinycthread.c || cmake_object_order_depends_target_threads
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\__\deps\tinycthread.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/threads.dir/__/deps/glad_gl.c.obj: C_COMPILER__threads_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_threads
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\threads.dir\__\deps
 
@@ -1752,14 +1738,14 @@ build cmake_object_order_depends_target_timeout: phony || cmake_object_order_dep
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/timeout.dir/timeout.c.obj: C_COMPILER__timeout_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/timeout.c || cmake_object_order_depends_target_timeout
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir\timeout.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/timeout.dir/__/deps/glad_gl.c.obj: C_COMPILER__timeout_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_timeout
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\timeout.dir\__\deps
 
@@ -1794,14 +1780,14 @@ build cmake_object_order_depends_target_title: phony || cmake_object_order_depen
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/title.dir/title.c.obj: C_COMPILER__title_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/title.c || cmake_object_order_depends_target_title
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir\title.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/title.dir/__/deps/glad_gl.c.obj: C_COMPILER__title_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_title
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\title.dir\__\deps
 
@@ -1836,14 +1822,14 @@ build cmake_object_order_depends_target_triangle-vulkan: phony || cmake_object_o
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/triangle-vulkan.dir/triangle-vulkan.c.obj: C_COMPILER__triangle-vulkan_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/triangle-vulkan.c || cmake_object_order_depends_target_triangle-vulkan
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir\triangle-vulkan.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/triangle-vulkan.dir/__/deps/glad_vulkan.c.obj: C_COMPILER__triangle-vulkan_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_vulkan.c || cmake_object_order_depends_target_triangle-vulkan
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir\__\deps\glad_vulkan.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\triangle-vulkan.dir\__\deps
 
@@ -1878,21 +1864,21 @@ build cmake_object_order_depends_target_windows: phony || cmake_object_order_dep
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/windows.c.obj: C_COMPILER__windows_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/tests/windows.c || cmake_object_order_depends_target_windows
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\windows.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/__/deps/getopt.c.obj: C_COMPILER__windows_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/getopt.c || cmake_object_order_depends_target_windows
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\__\deps\getopt.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\__\deps
 
 build Dependencies/libs/glfw-3.3.9/tests/CMakeFiles/windows.dir/__/deps/glad_gl.c.obj: C_COMPILER__windows_unscanned_Debug C$:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps/glad_gl.c || cmake_object_order_depends_target_windows
   DEP_FILE = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\__\deps\glad_gl.c.obj.d
   FLAGS = -g -std=gnu99 -fdiagnostics-color=always
-  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
+  INCLUDES = -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/includes -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs -IC:/3DProg/Github/HollowEngine/HollowEngine/HollowEngine/glad.c -IC:/3DProg/Github/HollowEngine/HollowEngine/core -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/deps -IC:/3DProg/Github/HollowEngine/HollowEngine/Dependencies/libs/glfw-3.3.9/include
   OBJECT_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir
   OBJECT_FILE_DIR = Dependencies\libs\glfw-3.3.9\tests\CMakeFiles\windows.dir\__\deps
 
