@@ -148,4 +148,8 @@ void createNPCPoints(model &lineModel, model ThePlane) {
 
 }
 
+void MoveNPC(model &NpcModel, glm::vec3 pos) {
+    NpcModel.PlayerPos  =pos;
+    }
+
 #endif //BOX_H

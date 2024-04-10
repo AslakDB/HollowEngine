@@ -23,41 +23,35 @@ void ProsessInput(GLFWwindow *window, float deltaTime, model& Player);
 
 
 struct Render {
-bool inside ;
+bool inside;
+    bool isMovingForward;
 
     model NpcGraph;
 
     std::vector<model*> models;
-model Box2;
     model ThePlane;
     model PlayerBox;
+    model NpcBox;
 
 
 
     void render(GLFWwindow* window, unsigned int shaderProgram, float deltaTime, float lastFrame) {
 
-     // mouse_callback( window, PlayerBox.PlayerPos.x, PlayerBox.PlayerPos.x);
-
-
-
-        models.emplace_back(&Box2);
         models.emplace_back(&ThePlane);
         models.emplace_back(&PlayerBox);
         models.emplace_back(&NpcGraph);
+        models.emplace_back(&NpcBox);
 
         glm::mat4 trans = glm::mat4(1.0f);
         glm::mat4 projection;
 
-
-
-
-
         CreateMeshPlane(ThePlane, 20, 20);
 
 
-        CreateMeshBox(Box2);
+
 
         CreateMeshBox(PlayerBox);
+        CreateMeshBox(NpcBox);
 
         createNPCPoints(NpcGraph, ThePlane);
         NpcGraph.isLine = true;
@@ -65,11 +59,14 @@ model Box2;
 
         NpcGraph.modelMatrix = glm::translate(glm::mat4(1.f),glm::vec3(0.f,0.0f,0.f) );
         ThePlane.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.0f, 0.0f, 0.0f));
-        Box2.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(8.f,0.0f,0.f));
         PlayerBox.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(5.f, 2.5f, 5.f));
         PlayerBox.modelMatrix = glm::scale(PlayerBox.modelMatrix, glm::vec3(0.5f, 1.f, 0.5f));
 
         bool isMovingforward = true;
+
+        float NpcXPos = 3.0f;
+        float NpcYPos = 0.0f;
+        float NpcZPos = f(NpcXPos);
 
         while (!glfwWindowShouldClose(window))
             {
@@ -88,6 +85,38 @@ model Box2;
                     ,ThePlane.vertices[element.C], PlayerBox.PlayerPos );
             }
             PlayerBox.modelMatrix = glm::translate(glm::mat4(1.f), PlayerBox.PlayerPos);
+
+
+
+
+            MoveNPC(NpcBox, glm::vec3(NpcXPos, NpcYPos, NpcZPos));
+            if (NpcXPos > 8.25f)
+            {
+                isMovingForward = false;
+            }
+            if (NpcXPos < 2.0f)
+            {
+                isMovingForward = true;
+            }
+
+            if (isMovingForward)
+            {
+                NpcXPos += 1 * deltaTime;
+                NpcZPos = f(NpcXPos);
+            }
+            else
+            {
+                NpcXPos -= 1 * deltaTime;
+                NpcZPos = f(NpcXPos);
+            }
+
+
+            for (auto element: ThePlane.indices) {
+                calculateBarycentric(ThePlane.vertices[element.A], ThePlane.vertices[element.B]
+                    ,ThePlane.vertices[element.C], NpcBox.PlayerPos );
+            }
+
+            NpcBox.modelMatrix = glm::translate(glm::mat4(1.f), NpcBox.PlayerPos);
             glClearColor(0.5f, 0.99f, 0.5f, 1.0f);
             glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
