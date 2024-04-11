@@ -60,11 +60,11 @@ float f(float x, float y) {
 void CreateMeshPlane(model& planeModel, float xlenght, float zlenght) {
     float totalxlength = 0, totalzlength = 0;
 
-    for (float x = 0; x < xlenght; x +=0.1) {
-        for (float y = 0; y < zlenght; y +=0.1) {
+    for (float x = -3; x < xlenght; x +=0.1) {
+        for (float y = -2; y < zlenght; y +=0.1) {
             float z = f(x,y);
             planeModel.vertices.emplace_back(glm::vec3(x,z,y),glm::vec3(0), glm::vec3(1.0f, 0.0f, 0.6f));
-            if (x == 0)
+            if (x == -3)
                 totalzlength ++;
         }
         totalxlength++;
@@ -127,7 +127,7 @@ bool calculateBarycentric(Vertex& P, Vertex& R, Vertex& Q, glm::vec3& PlayerPos)
 }
 void createNPCPoints(model &lineModel, model ThePlane) {
 
-    for (float i = 2; i < 10; i+=0.1)
+    for (float i = -3; i < 10; i+=0.1)
     {
         float x = i;
         float y = 0;

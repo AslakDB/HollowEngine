@@ -47,9 +47,6 @@ bool inside;
 
         CreateMeshPlane(ThePlane, 20, 20);
 
-
-
-
         CreateMeshBox(PlayerBox);
         CreateMeshBox(NpcBox);
 
@@ -94,7 +91,7 @@ bool inside;
             {
                 isMovingForward = false;
             }
-            if (NpcXPos < 2.0f)
+            if (NpcXPos < -2.5f)
             {
                 isMovingForward = true;
             }
