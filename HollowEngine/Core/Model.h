@@ -54,6 +54,7 @@ unsigned int VBO, VAO, EBO;
     }
     void DrawMesh(unsigned int shaderProgram)
     {
+        glUseProgram(shaderProgram);
         int modelLoc = glGetUniformLocation(shaderProgram, "model");
         glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(modelMatrix));
         glBindVertexArray(VAO);

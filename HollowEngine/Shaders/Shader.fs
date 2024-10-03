@@ -21,8 +21,6 @@ float specularStrength = 0.5;
 lightColor = vec3(1.0);
 norm = normalize(ourNormal);
 
-
-
 lightDir = normalize(lightPos - ourPos);
 
 vec3 viewDir = normalize(viewPos - ourPos);

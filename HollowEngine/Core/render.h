@@ -53,12 +53,6 @@ bool inside;
         createNPCPoints(NpcGraph, ThePlane);
         NpcGraph.isLine = true;
 
-
-        NpcGraph.modelMatrix = glm::translate(glm::mat4(1.f),glm::vec3(0.f,0.0f,0.f) );
-        ThePlane.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(0.0f, 0.0f, 0.0f));
-        PlayerBox.modelMatrix = glm::translate(glm::mat4(1.f), glm::vec3(5.f, 2.5f, 5.f));
-        PlayerBox.modelMatrix = glm::scale(PlayerBox.modelMatrix, glm::vec3(0.5f, 1.f, 0.5f));
-
         bool isMovingforward = true;
 
         float NpcXPos = 3.0f;
@@ -82,8 +76,6 @@ bool inside;
                     ,ThePlane.vertices[element.C], PlayerBox.PlayerPos );
             }
             PlayerBox.modelMatrix = glm::translate(glm::mat4(1.f), PlayerBox.PlayerPos);
-
-
 
 
             MoveNPC(NpcBox, glm::vec3(NpcXPos, NpcYPos, NpcZPos));
@@ -124,7 +116,6 @@ bool inside;
             glUniform3fv(LightLoc, 1, glm::value_ptr(glm::vec3(5,20,0)));
 
             glLineWidth(3);
-
 
             for (model* element: models) {
                 element->DrawMesh(shaderProgram);

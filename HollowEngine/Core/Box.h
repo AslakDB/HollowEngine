@@ -2,7 +2,7 @@
 // Created by Aslak on 4/7/2024.
 //
 
-#include <glad/glad.h>
+
 #include <vector>
 #include "Model.h"
 #include <glm/glm.hpp>
@@ -75,7 +75,6 @@ void CreateMeshPlane(model& planeModel, float xlenght, float zlenght) {
         for (int j = 0; j < totalzlength - 1; ++j) {
             planeModel.indices.emplace_back(i*totalzlength +j,j+index*totalzlength,j+index *totalzlength + 1);
             planeModel.indices.emplace_back(j+index* totalzlength +1,i*totalzlength+j +1,i*totalzlength + j);
-
         }
         index++;
     }
